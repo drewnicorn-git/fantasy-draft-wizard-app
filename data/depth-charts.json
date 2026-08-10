@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "builtAt": "2026-08-09T16:03:00.448Z",
- "fetchedAt": "2026-08-02T01:16:23.161Z",
+ "builtAt": "2026-08-10T15:32:02.987Z",
+ "fetchedAt": "2026-08-10T15:32:02.681Z",
  "teams": {
   "ARI": {
    "RB": [
@@ -10,7 +10,8 @@
     "James Conner",
     "Trey Benson",
     "Bam Knight",
-    "Corey Kiner"
+    "Corey Kiner",
+    "Evan Hull"
    ],
    "QB": [
     "Jacoby Brissett",
@@ -24,22 +25,21 @@
     "Kendrick Bourne",
     "Xavier Weaver",
     "Simi Fehoko",
-    "Harrison Wallace III",
+    "Bryson Green",
     "Reggie Virgil",
     "Jalen Brooks",
-    "Bryson Green",
+    "Ihmir Smith-Marsette",
     "Devin Duvernay",
-    "Tejhaun Palmer",
-    "Ihmir Smith-Marsette"
+    "Harrison Wallace III"
    ],
    "TE": [
     "Trey McBride",
     "Tip Reiman",
     "Elijah Higgins",
     "Teagan Quitoriano",
-    "Kenny Yeboah",
     "Rivaldo Fairweather",
-    "Jameson Geers"
+    "Jameson Geers",
+    "Shawn Bowman"
    ],
    "DST": [
     "Arizona Cardinals"
@@ -52,11 +52,12 @@
     "Olamide Zaccheaus",
     "Zachariah Branch",
     "Chris Blair",
-    "Keelan Marion",
+    "Le'Meke Brockington",
     "Dylan Drummond",
-    "Antwane Wells Jr.",
+    "Kristian Wilkerson",
+    "Keelan Marion",
     "Vinny Anthony II",
-    "Le'Meke Brockington"
+    "Antwane Wells Jr."
    ],
    "RB": [
     "Bijan Robinson",
@@ -75,8 +76,8 @@
    "QB": [
     "Tua Tagovailoa",
     "Michael Penix Jr.",
-    "Jack Strand",
-    "Cooper Rush"
+    "Cooper Rush",
+    "Jack Strand"
    ],
    "DST": [
     "Atlanta Falcons"
@@ -163,20 +164,6 @@
    ]
   },
   "CAR": {
-   "WR": [
-    "Tetairoa McMillan",
-    "Jalen Coker",
-    "Xavier Legette",
-    "Jimmy Horn Jr.",
-    "Brycen Tremayne",
-    "Malick Meiga",
-    "John Metchie III",
-    "Ainias Smith",
-    "Casey Washington",
-    "David Moore",
-    "Ja'seem Reed",
-    "Gabriel Benyard"
-   ],
    "RB": [
     "Chuba Hubbard",
     "Jonathon Brooks",
@@ -185,19 +172,32 @@
     "Anthony Tyus III",
     "Miles Davis"
    ],
+   "WR": [
+    "Tetairoa McMillan",
+    "Jalen Coker",
+    "Xavier Legette",
+    "Jimmy Horn Jr.",
+    "Brycen Tremayne",
+    "Elijah Cooks",
+    "John Metchie III",
+    "Casey Washington",
+    "Roc Taylor",
+    "David Moore",
+    "Ja'seem Reed"
+   ],
    "TE": [
     "Tommy Tremble",
     "Ja'Tavion Sanders",
     "Mitchell Evans",
     "Feleipe Franks",
     "James Mitchell",
-    "Caden Prieskorn",
-    "Chamon Metayer"
+    "Caden Prieskorn"
    ],
    "QB": [
     "Bryce Young",
     "Kenny Pickett",
-    "Haynes King"
+    "Haynes King",
+    "Kyle Trask"
    ],
    "DST": [
     "Carolina Panthers"
@@ -288,20 +288,6 @@
    ]
   },
   "CLE": {
-   "WR": [
-    "Jerry Jeudy",
-    "KC Concepcion",
-    "Denzel Boston",
-    "Cedric Tillman",
-    "Malachi Corley",
-    "Luke Floriea",
-    "Isaiah Bond",
-    "Jamari Thrash",
-    "Aaron Anderson",
-    "Tylan Wallace",
-    "Gage Larvadain",
-    "Kole Wilson"
-   ],
    "TE": [
     "Harold Fannin Jr.",
     "Joe Royer",
@@ -310,13 +296,24 @@
     "Carsen Ryan",
     "Brenden Bates"
    ],
+   "WR": [
+    "Jerry Jeudy",
+    "KC Concepcion",
+    "Denzel Boston",
+    "Cedric Tillman",
+    "Malachi Corley",
+    "Kole Wilson",
+    "Isaiah Bond",
+    "Gage Larvadain",
+    "Tylan Wallace",
+    "Luke Floriea"
+   ],
    "RB": [
     "Quinshon Judkins",
     "Dylan Sampson",
     "Raheim Sanders",
     "Ahmani Marshall",
-    "Davon Booth",
-    "T.J. Harden"
+    "Davon Booth"
    ],
    "QB": [
     "Deshaun Watson",
@@ -335,7 +332,7 @@
     "Malik Davis",
     "Phil Mafah",
     "Israel Abanikanda",
-    "Dominic Richardson"
+    "Jashaun Corbin"
    ],
    "WR": [
     "CeeDee Lamb",
@@ -356,7 +353,7 @@
     "Jake Ferguson",
     "Brevyn Spann-Ford",
     "Luke Schoonmaker",
-    "Princeton Fant",
+    "Zack Kuntz",
     "Michael Trigg",
     "DJ Rogers"
    ],
@@ -394,9 +391,11 @@
     "Pat Bryant",
     "Michael Bandy",
     "Kolbe Katsis",
+    "Kyre Duplessis",
     "Marvin Mims Jr.",
     "Hakeem Butler",
     "Joseph Manjack IV",
+    "Kyrese Rowan",
     "Lil'Jordan Humphrey",
     "Dane Key",
     "Cameron Ross"
@@ -413,7 +412,7 @@
   "DET": {
    "QB": [
     "Jared Goff",
-    "Teddy Bridgewater",
+    "Joshua Dobbs",
     "Luke Altmyer"
    ],
    "WR": [
@@ -427,30 +426,39 @@
     "Malik Cunningham",
     "Tarik Black",
     "Cedrick Wilson Jr.",
-    "Tay Martin",
-    "Lawrence Keys III"
-   ],
-   "TE": [
-    "Sam LaPorta",
-    "Brock Wright",
-    "Tyler Conklin",
-    "Anthony Firkser",
-    "Thomas Gordon",
-    "Miles Kitselman"
+    "Tay Martin"
    ],
    "RB": [
     "Jahmyr Gibbs",
     "Isiah Pacheco",
     "Sione Vaki",
     "Jacob Saylors",
+    "Raheem Blackshear",
     "Jabari Small",
     "Kye Robichaux"
+   ],
+   "TE": [
+    "Sam LaPorta",
+    "Brock Wright",
+    "Tyler Conklin",
+    "Zach Horton",
+    "Thomas Gordon"
    ],
    "DST": [
     "Detroit Lions"
    ]
   },
   "GB": {
+   "TE": [
+    "Tucker Kraft",
+    "Luke Musgrave",
+    "Josh Whyle",
+    "Drake Dabney",
+    "Messiah Swinson",
+    "McCallan Castles",
+    "Thomas Yassmin",
+    "Drew Biber"
+   ],
    "RB": [
     "Josh Jacobs",
     "MarShawn Lloyd",
@@ -458,16 +466,6 @@
     "Pierre Strong Jr.",
     "Damien Martinez",
     "Jaden Nixon"
-   ],
-   "TE": [
-    "Tucker Kraft",
-    "Luke Musgrave",
-    "Josh Whyle",
-    "Drake Dabney",
-    "Messiah Swinson",
-    "Luke Lachey",
-    "RJ Maryland",
-    "Thomas Yassmin"
    ],
    "QB": [
     "Jordan Love",
@@ -484,8 +482,10 @@
     "Kaden Prather",
     "Bo Melton",
     "Will Sheppard",
+    "Kisean Johnson",
     "Skyy Moore",
-    "J. Michael Sturdivant"
+    "J. Michael Sturdivant",
+    "Chris Hilton Jr."
    ],
    "DST": [
     "Green Bay Packers"
@@ -498,7 +498,7 @@
     "Jaylin Noel",
     "Xavier Hutchinson",
     "Justin Watson",
-    "DJ Turner",
+    "Montrell Washington",
     "Jha'Quan Jackson",
     "Tank Dell",
     "Josh Kelly",
@@ -513,8 +513,8 @@
     "Jawhar Jordan",
     "British Brooks",
     "Noah Whittington",
-    "Evan Hull",
-    "Josh Pitsenberger"
+    "Josh Pitsenberger",
+    "Owen Wright"
    ],
    "TE": [
     "Dalton Schultz",
@@ -539,13 +539,13 @@
     "Mo Alie-Cox",
     "Drew Ogletree",
     "Will Mallory",
-    "Sean McKeon",
+    "Pharaoh Brown",
     "Carson Towt"
    ],
    "RB": [
     "Jonathan Taylor",
-    "DJ Giddens",
     "Seth McGowan",
+    "DJ Giddens",
     "Ulysses Bentley IV",
     "Anderson Castle",
     "Roydell Williams"
@@ -553,17 +553,17 @@
    "WR": [
     "Alec Pierce",
     "Josh Downs",
-    "Ashton Dulin",
     "Nick Westbrook-Ikhine",
+    "Ashton Dulin",
     "Laquon Treadwell",
-    "Sahmir Hagans",
-    "Liam Clifford",
+    "Eli Pancol",
+    "Raylen Sharpe",
     "Deion Burks",
     "Coleman Owen",
-    "EJ Horton Jr.",
+    "Sahmir Hagans",
     "Anthony Gould",
-    "Eli Pancol",
-    "Raylen Sharpe"
+    "D.J. Montgomery",
+    "EJ Horton Jr."
    ],
    "QB": [
     "Daniel Jones",
@@ -601,18 +601,17 @@
    ],
    "WR": [
     "Brian Thomas Jr.",
-    "Jakobi Meyers",
     "Parker Washington",
+    "Jakobi Meyers",
     "Travis Hunter",
     "Tim Jones",
     "Brady Boyd",
-    "Michael Wortham",
     "Josh Cameron",
     "Austin Trammell",
-    "Ben Patterson",
+    "Trebor Pena",
     "CJ Williams",
     "Chandler Brayboy",
-    "Trebor Pena"
+    "Michael Wortham"
    ],
    "DST": [
     "Jacksonville Jaguars"
@@ -630,6 +629,7 @@
     "Cyrus Allen",
     "Jimmy Holiday",
     "Omari Evans",
+    "Jeff Weimer",
     "Nikko Remigio",
     "Andrew Armstrong",
     "Jacob De Jesus"
@@ -681,8 +681,8 @@
     "Ian Thomas",
     "Carter Runyon",
     "Albert Okwuegbunam Jr.",
-    "Patrick Gurd",
-    "Zack Kuntz"
+    "Chris Myarick",
+    "Patrick Gurd"
    ],
    "QB": [
     "Kirk Cousins",
@@ -694,6 +694,7 @@
     "Ashton Jeanty",
     "Mike Washington Jr.",
     "Dylan Laube",
+    "Dare Ogunbowale",
     "Roman Hemby"
    ],
    "DST": [
@@ -765,8 +766,8 @@
    ],
    "QB": [
     "Matthew Stafford",
-    "Ty Simpson",
     "Stetson Bennett IV",
+    "Ty Simpson",
     "Matthew Caldwell"
    ],
    "RB": [
@@ -809,13 +810,13 @@
     "Will Kacmarek",
     "Seydou Traore",
     "Ben Sims",
-    "Cole Turner"
+    "Cole Turner",
+    "Jeremiah Franklin"
    ],
    "QB": [
     "Malik Willis",
     "Quinn Ewers",
-    "Cam Miller",
-    "Mark Gronowski"
+    "Cam Miller"
    ],
    "DST": [
     "Miami Dolphins"
@@ -855,8 +856,7 @@
     "Jordan Mason",
     "Demond Claiborne",
     "Zavier Scott",
-    "Jordan Mims",
-    "Kejon Owens"
+    "Jordan Mims"
    ],
    "DST": [
     "Minnesota Vikings"
@@ -868,8 +868,7 @@
     "Eli Raridon",
     "CJ Dippre",
     "Tanner Arkin",
-    "Mitch Van Vooren",
-    "Jeremiah Franklin"
+    "Mitch Van Vooren"
    ],
    "WR": [
     "A.J. Brown",
@@ -882,7 +881,8 @@
     "Kyle Dixon",
     "Kobe Prentice",
     "Kyle Williams",
-    "Cameron Dorner"
+    "Cameron Dorner",
+    "Tejhaun Palmer"
    ],
    "QB": [
     "Drake Maye",
@@ -892,8 +892,8 @@
    "RB": [
     "Rhamondre Stevenson",
     "TreVeyon Henderson",
-    "Lan Larison",
     "Terrell Jennings",
+    "Lan Larison",
     "Jam Miller",
     "Myles Montgomery"
    ],
@@ -907,15 +907,14 @@
     "Jordyn Tyson",
     "Devaughn Vele",
     "Bryce Lance",
-    "Mason Tipton",
-    "Bub Means",
-    "Brock Rechsteiner",
-    "Ja'Lynn Polk",
     "Ronnie Bell",
     "Kevin Austin Jr.",
     "Barion Brown",
     "Trey Palmer",
-    "Jalen Moreno-Cropper"
+    "Jalen Moreno-Cropper",
+    "Mason Tipton",
+    "Bub Means",
+    "Brock Rechsteiner"
    ],
    "RB": [
     "Travis Etienne Jr.",
@@ -958,14 +957,13 @@
     "Calvin Austin III",
     "Odell Beckham Jr.",
     "Jalin Hyatt",
-    "Xavier Gipson",
+    "Ryan Miller",
     "Malachi Fields",
     "Isaiah Hodgins",
-    "Beaux Collins",
-    "Ryan Miller",
+    "Dalen Cambre",
     "JuJu Smith-Schuster",
     "Braxton Berrios",
-    "Dalen Cambre"
+    "Xavier Gipson"
    ],
    "RB": [
     "Cam Skattebo",
@@ -980,8 +978,7 @@
     "Theo Johnson",
     "Chris Manhertz",
     "Thomas Fidone II",
-    "Tanner Conner",
-    "Tyler Moore"
+    "Tanner Conner"
    ],
    "DST": [
     "New York Giants"
@@ -1021,7 +1018,8 @@
     "Mason Taylor",
     "Jeremy Ruckert",
     "Jelani Woods",
-    "Chase Curtis"
+    "Chase Curtis",
+    "Connor Hulstein"
    ],
    "DST": [
     "New York Jets"
@@ -1037,11 +1035,12 @@
    ],
    "WR": [
     "DeVonta Smith",
-    "Makai Lemon",
     "Dontayvion Wicks",
+    "Makai Lemon",
     "Hollywood Brown",
     "Darius Cooper",
     "Samori Toure",
+    "Brandon Hayes",
     "Elijah Moore",
     "Britain Covey",
     "Danny Gray",
@@ -1056,8 +1055,7 @@
     "Grant Calcaterra",
     "Stone Smartt",
     "Cameron Latu",
-    "E.J. Jenkins",
-    "Dae'Quan Wright"
+    "E.J. Jenkins"
    ],
    "QB": [
     "Jalen Hurts",
@@ -1081,29 +1079,28 @@
     "Darnell Washington",
     "Robert Tonyan",
     "Jaheim Bell",
-    "JJ Galbreath",
-    "Lake McRee"
+    "Lake McRee",
+    "Lance Mason"
    ],
    "WR": [
     "DK Metcalf",
     "Michael Pittman Jr.",
     "Roman Wilson",
     "Germie Bernard",
-    "Cole Burgess",
-    "Levi Wentz",
     "Ben Skowronek",
-    "A.T. Perry",
     "Brandon Smith",
+    "Joaquin Davis",
     "Kaden Wetjen",
-    "Joaquin Davis"
+    "Jakobie Keeney-James",
+    "Levi Wentz"
    ],
    "RB": [
     "Jaylen Warren",
     "Rico Dowdle",
     "Kaleb Johnson",
-    "Eli Heidenreich",
     "Travis Homer",
-    "Lew Nichols"
+    "Lew Nichols",
+    "Eli Heidenreich"
    ],
    "DST": [
     "Pittsburgh Steelers"
@@ -1112,19 +1109,19 @@
   "SF": {
    "WR": [
     "Mike Evans",
-    "Deebo Samuel",
+    "Deebo Samuel Sr.",
     "Christian Kirk",
     "De'Zhaun Stribling",
     "Jacob Cowing",
-    "Colton Dowell",
-    "Wesley Grimes",
+    "Trenton Irwin",
+    "KhaDarel Hodge",
     "Demarcus Robinson",
-    "Brandon Aiyuk",
     "Junior Bergen",
-    "Will Pauling",
+    "Wesley Grimes",
+    "Brandon Aiyuk",
     "Jordan Watkins",
     "Malik Turner",
-    "Trenton Irwin"
+    "Will Pauling"
    ],
    "RB": [
     "Christian McCaffrey",
@@ -1132,7 +1129,8 @@
     "Kaelon Black",
     "Isaac Guerendo",
     "Patrick Taylor Jr.",
-    "Sincere McCormick"
+    "Sincere McCormick",
+    "Khalil Herbert"
    ],
    "TE": [
     "George Kittle",
@@ -1158,8 +1156,7 @@
     "Elijah Arroyo",
     "Eric Saubert",
     "Nick Vannett",
-    "Nick Kallerup",
-    "Lance Mason"
+    "Nick Kallerup"
    ],
    "WR": [
     "Jaxon Smith-Njigba",
@@ -1172,15 +1169,16 @@
     "Ricky White III",
     "Rashad Rochelle",
     "Emmanuel Henderson Jr.",
-    "Irv Charles",
-    "Kyre Duplessis"
+    "Irv Charles"
    ],
    "RB": [
     "Zach Charbonnet",
     "Jadarian Price",
     "George Holani",
     "Emanuel Wilson",
-    "Jacardia Wright"
+    "Jacardia Wright",
+    "TJ Harden",
+    "Justin Jones"
    ],
    "QB": [
     "Sam Darnold",
@@ -1291,17 +1289,17 @@
    ],
    "WR": [
     "Terry McLaurin",
-    "Antonio Williams",
+    "Stefon Diggs",
     "Luke McCaffrey",
+    "Antonio Williams",
+    "Jaylin Lane",
+    "River Cracraft",
     "Treylon Burks",
     "Van Jefferson",
     "Nick Nash",
     "Dyami Brown",
-    "River Cracraft",
-    "Jaden Bradley",
-    "Jaylin Lane",
     "Jacoby Jones",
-    "Chris Hilton Jr."
+    "Jaden Bradley"
    ],
    "QB": [
     "Jayden Daniels",
