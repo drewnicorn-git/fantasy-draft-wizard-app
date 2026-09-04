@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-09-03T15:19:11.039Z",
+ "fetchedAt": "2026-09-04T15:14:10.214Z",
  "data": {
   "players": [
    {
@@ -1512,7 +1512,7 @@
     "name": "D'Andre Swift",
     "pos": "RB",
     "team": "CHI",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 6
    },
    {
@@ -2440,7 +2440,7 @@
     "name": "Alec Pierce",
     "pos": "WR",
     "team": "IND",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 4
    },
    {
@@ -2568,6 +2568,14 @@
     "name": "Skyy Moore",
     "pos": "WR",
     "team": "GB",
+    "injuryStatus": null,
+    "yearsExp": 4
+   },
+   {
+    "id": "8170",
+    "name": "James Mitchell",
+    "pos": "TE",
+    "team": "DAL",
     "injuryStatus": null,
     "yearsExp": 4
    },
@@ -3316,6 +3324,14 @@
     "yearsExp": 3
    },
    {
+    "id": "10221",
+    "name": "Ronnie Bell",
+    "pos": "WR",
+    "team": "LV",
+    "injuryStatus": null,
+    "yearsExp": 3
+   },
+   {
     "id": "10222",
     "name": "Jayden Reed",
     "pos": "WR",
@@ -4056,7 +4072,7 @@
     "name": "Rome Odunze",
     "pos": "WR",
     "team": "CHI",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2
    },
    {
@@ -4492,14 +4508,6 @@
     "yearsExp": 2
    },
    {
-    "id": "12356",
-    "name": "Jabari Small",
-    "pos": "RB",
-    "team": "DET",
-    "injuryStatus": null,
-    "yearsExp": 2
-   },
-   {
     "id": "12357",
     "name": "David Martin-Robinson",
     "pos": "TE",
@@ -4608,7 +4616,7 @@
     "name": "Devin Neal",
     "pos": "RB",
     "team": "NO",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 1
    },
    {
@@ -4616,14 +4624,6 @@
     "name": "Kurtis Rourke",
     "pos": "QB",
     "team": "SF",
-    "injuryStatus": "Questionable",
-    "yearsExp": 1
-   },
-   {
-    "id": "12479",
-    "name": "Ja'Quinden Jackson",
-    "pos": "RB",
-    "team": "PHI",
     "injuryStatus": "Questionable",
     "yearsExp": 1
    },
@@ -4872,7 +4872,7 @@
     "name": "Will Howard",
     "pos": "QB",
     "team": "PIT",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 1
    },
    {
@@ -5033,6 +5033,14 @@
     "pos": "WR",
     "team": "HOU",
     "injuryStatus": "Questionable",
+    "yearsExp": 1
+   },
+   {
+    "id": "12538",
+    "name": "Brady Cook",
+    "pos": "QB",
+    "team": "MIA",
+    "injuryStatus": null,
     "yearsExp": 1
    },
    {
@@ -5432,7 +5440,7 @@
     "name": "Dontae Fleming",
     "pos": "WR",
     "team": "MIN",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 1
    },
    {
@@ -6204,6 +6212,14 @@
     "yearsExp": 0
    },
    {
+    "id": "13400",
+    "name": "Justin Joly",
+    "pos": "TE",
+    "team": "MIA",
+    "injuryStatus": null,
+    "yearsExp": 0
+   },
+   {
     "id": "13401",
     "name": "Michael Trigg",
     "pos": "TE",
@@ -6592,7 +6608,7 @@
     "name": "Sincere Brown",
     "pos": "WR",
     "team": "LAC",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 0
    },
    {
@@ -6607,14 +6623,6 @@
     "id": "13630",
     "name": "Evan Svoboda",
     "pos": "TE",
-    "team": "LAC",
-    "injuryStatus": null,
-    "yearsExp": 0
-   },
-   {
-    "id": "13632",
-    "name": "Devonte Ross",
-    "pos": "WR",
     "team": "LAC",
     "injuryStatus": null,
     "yearsExp": 0
@@ -6688,7 +6696,7 @@
     "name": "Dominic Richardson",
     "pos": "RB",
     "team": "NYJ",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 0
    },
    {
@@ -6780,14 +6788,6 @@
     "yearsExp": 0
    },
    {
-    "id": "13839",
-    "name": "Chase Curtis",
-    "pos": "TE",
-    "team": "NYJ",
-    "injuryStatus": "Questionable",
-    "yearsExp": 0
-   },
-   {
     "id": "13846",
     "name": "Jack Velling",
     "pos": "TE",
@@ -6852,14 +6852,6 @@
     "yearsExp": 0
    },
    {
-    "id": "13967",
-    "name": "Jimmy Kibble",
-    "pos": "WR",
-    "team": "NE",
-    "injuryStatus": "Questionable",
-    "yearsExp": 0
-   },
-   {
     "id": "13968",
     "name": "Drew Stevens",
     "pos": "K",
@@ -6897,14 +6889,6 @@
     "pos": "RB",
     "team": "IND",
     "injuryStatus": null,
-    "yearsExp": 0
-   },
-   {
-    "id": "14069",
-    "name": "Connor Hulstein",
-    "pos": "TE",
-    "team": "NYJ",
-    "injuryStatus": "Questionable",
     "yearsExp": 0
    },
    {
