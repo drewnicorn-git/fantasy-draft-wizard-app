@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-09-07T16:43:20.473Z",
+ "fetchedAt": "2026-09-08T15:27:20.784Z",
  "data": {
   "players": [
    {
@@ -1592,6 +1592,14 @@
     "name": "Devin Duvernay",
     "pos": "WR",
     "team": "ARI",
+    "injuryStatus": null,
+    "yearsExp": 6
+   },
+   {
+    "id": "6853",
+    "name": "Van Jefferson",
+    "pos": "WR",
+    "team": "WAS",
     "injuryStatus": null,
     "yearsExp": 6
    },
@@ -3479,7 +3487,7 @@
     "id": "10983",
     "name": "Sean Clifford",
     "pos": "QB",
-    "team": "SF",
+    "team": "CIN",
     "injuryStatus": null,
     "yearsExp": 3
    },
@@ -4492,6 +4500,14 @@
     "yearsExp": 2
    },
    {
+    "id": "12356",
+    "name": "Jabari Small",
+    "pos": "RB",
+    "team": "DET",
+    "injuryStatus": null,
+    "yearsExp": 2
+   },
+   {
     "id": "12357",
     "name": "David Martin-Robinson",
     "pos": "TE",
@@ -4784,7 +4800,7 @@
     "name": "Isaiah Bond",
     "pos": "WR",
     "team": "CLE",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 1
    },
    {
@@ -6384,7 +6400,7 @@
     "name": "Will Kacmarek",
     "pos": "TE",
     "team": "MIA",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 0
    },
    {
@@ -6676,6 +6692,14 @@
     "yearsExp": 0
    },
    {
+    "id": "13816",
+    "name": "Mark Gronowski",
+    "pos": "QB",
+    "team": "HOU",
+    "injuryStatus": null,
+    "yearsExp": 0
+   },
+   {
     "id": "13825",
     "name": "Malik McClain",
     "pos": "WR",
@@ -6760,6 +6784,14 @@
     "name": "Omari Evans",
     "pos": "WR",
     "team": "KC",
+    "injuryStatus": null,
+    "yearsExp": 0
+   },
+   {
+    "id": "13913",
+    "name": "Patrick Gurd",
+    "pos": "TE",
+    "team": "LV",
     "injuryStatus": null,
     "yearsExp": 0
    },
