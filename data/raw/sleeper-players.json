@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-09-12T14:28:17.753Z",
+ "fetchedAt": "2026-09-13T15:09:06.657Z",
  "data": {
   "players": [
    {
@@ -656,7 +656,7 @@
     "name": "Tim Patrick",
     "pos": "WR",
     "team": "NYJ",
-    "injuryStatus": "Out",
+    "injuryStatus": "IR",
     "yearsExp": 9
    },
    {
@@ -2028,14 +2028,6 @@
     "yearsExp": 5
    },
    {
-    "id": "7599",
-    "name": "Jermar Jefferson",
-    "pos": "RB",
-    "team": "MIN",
-    "injuryStatus": "Questionable",
-    "yearsExp": 5
-   },
-   {
     "id": "7600",
     "name": "Pat Freiermuth",
     "pos": "TE",
@@ -2112,7 +2104,7 @@
     "name": "Kene Nwangwu",
     "pos": "RB",
     "team": "NYJ",
-    "injuryStatus": "Doubtful",
+    "injuryStatus": "Out",
     "yearsExp": 5
    },
    {
@@ -2888,7 +2880,7 @@
     "name": "Malik Davis",
     "pos": "RB",
     "team": "DAL",
-    "injuryStatus": "Out",
+    "injuryStatus": "IR",
     "yearsExp": 4
    },
    {
@@ -3872,7 +3864,7 @@
     "name": "Audric Estime",
     "pos": "RB",
     "team": "NO",
-    "injuryStatus": "Out",
+    "injuryStatus": "IR",
     "yearsExp": 2
    },
    {
@@ -4128,14 +4120,6 @@
     "name": "Malik Nabers",
     "pos": "WR",
     "team": "NYG",
-    "injuryStatus": "Questionable",
-    "yearsExp": 2
-   },
-   {
-    "id": "11633",
-    "name": "Jamari Thrash",
-    "pos": "WR",
-    "team": "CLE",
     "injuryStatus": "Questionable",
     "yearsExp": 2
    },
@@ -5836,6 +5820,14 @@
     "yearsExp": 0
    },
    {
+    "id": "13310",
+    "name": "Miller Moss",
+    "pos": "QB",
+    "team": "CHI",
+    "injuryStatus": null,
+    "yearsExp": 0
+   },
+   {
     "id": "13311",
     "name": "Chris Bell",
     "pos": "WR",
@@ -6056,7 +6048,7 @@
     "name": "Eli Stowers",
     "pos": "TE",
     "team": "PHI",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "IR",
     "yearsExp": 0
    },
    {
