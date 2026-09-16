@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-09-15T15:46:14.245Z",
+ "fetchedAt": "2026-09-16T15:38:24.161Z",
  "data": {
   "players": [
    {
@@ -458,12 +458,6 @@
     "depth": 4
    },
    {
-    "name": "Jimmy Horn Jr.",
-    "team": "CAR",
-    "pos": "WR",
-    "depth": 4
-   },
-   {
     "name": "Chuba Hubbard",
     "team": "CAR",
     "pos": "RB",
@@ -491,7 +485,7 @@
     "name": "John Metchie III",
     "team": "CAR",
     "pos": "WR",
-    "depth": 7
+    "depth": 5
    },
    {
     "name": "Kenny Pickett",
@@ -509,7 +503,7 @@
     "name": "Brycen Tremayne",
     "team": "CAR",
     "pos": "WR",
-    "depth": 6
+    "depth": 4
    },
    {
     "name": "Tommy Tremble",
@@ -590,8 +584,7 @@
    {
     "name": "Miller Moss",
     "team": "CHI",
-    "pos": "QB",
-    "depth": 4
+    "pos": "QB"
    },
    {
     "name": "Rome Odunze",
@@ -806,22 +799,22 @@
     "depth": 1
    },
    {
+    "name": "Jaleel McLaughlin",
+    "team": "CLE",
+    "pos": "RB",
+    "depth": 3
+   },
+   {
     "name": "Carsen Ryan",
     "team": "CLE",
     "pos": "TE",
     "depth": 3
    },
    {
-    "name": "Dylan Sampson",
-    "team": "CLE",
-    "pos": "RB",
-    "depth": 2
-   },
-   {
     "name": "Raheim Sanders",
     "team": "CLE",
     "pos": "RB",
-    "depth": 3
+    "depth": 2
    },
    {
     "name": "Shedeur Sanders",
@@ -859,12 +852,6 @@
     "depth": 1
    },
    {
-    "name": "Israel Abanikanda",
-    "team": "DAL",
-    "pos": "RB",
-    "depth": 3
-   },
-   {
     "name": "Camden Brown",
     "team": "DAL",
     "pos": "WR",
@@ -886,6 +873,12 @@
     "name": "Ryan Flournoy",
     "team": "DAL",
     "pos": "WR",
+    "depth": 3
+   },
+   {
+    "name": "Tyler Goodson",
+    "team": "DAL",
+    "pos": "RB",
     "depth": 3
    },
    {
@@ -965,18 +958,6 @@
     "depth": 3
    },
    {
-    "name": "Tyler Badie",
-    "team": "DEN",
-    "pos": "RB",
-    "depth": 4
-   },
-   {
-    "name": "Dallen Bentley",
-    "team": "DEN",
-    "pos": "TE",
-    "depth": 4
-   },
-   {
     "name": "Pat Bryant",
     "team": "DEN",
     "pos": "WR",
@@ -995,12 +976,6 @@
     "depth": 1
    },
    {
-    "name": "Sam Ehlinger",
-    "team": "DEN",
-    "pos": "QB",
-    "depth": 3
-   },
-   {
     "name": "Evan Engram",
     "team": "DEN",
     "pos": "TE",
@@ -1017,6 +992,12 @@
     "team": "DEN",
     "pos": "RB",
     "depth": 2
+   },
+   {
+    "name": "Lil'Jordan Humphrey",
+    "team": "DEN",
+    "pos": "WR",
+    "depth": 6
    },
    {
     "name": "Marvin Mims Jr.",
@@ -1600,7 +1581,7 @@
     "name": "Jake Briningstool",
     "team": "KC",
     "pos": "TE",
-    "depth": 4
+    "depth": 3
    },
    {
     "name": "Justin Fields",
@@ -1631,12 +1612,6 @@
     "team": "KC",
     "pos": "QB",
     "depth": 1
-   },
-   {
-    "name": "Garrett Nussmeier",
-    "team": "KC",
-    "pos": "QB",
-    "depth": 3
    },
    {
     "name": "Nikko Remigio",
@@ -1678,12 +1653,6 @@
     "team": "KC",
     "pos": "RB",
     "depth": 1
-   },
-   {
-    "name": "Jared Wiley",
-    "team": "KC",
-    "pos": "TE",
-    "depth": 3
    },
    {
     "name": "Xavier Worthy",
@@ -1848,6 +1817,12 @@
     "pos": "RB"
    },
    {
+    "name": "Gary Jennings",
+    "team": "LAC",
+    "pos": "WR",
+    "depth": 7
+   },
+   {
     "name": "Quentin Johnston",
     "team": "LAC",
     "pos": "WR",
@@ -1858,12 +1833,6 @@
     "team": "LAC",
     "pos": "TE",
     "depth": 1
-   },
-   {
-    "name": "KeAndre Lambert-Smith",
-    "team": "LAC",
-    "pos": "WR",
-    "depth": 5
    },
    {
     "name": "Trey Lance",
@@ -2718,12 +2687,13 @@
     "name": "Darius Cooper",
     "team": "PHI",
     "pos": "WR",
-    "depth": 7
+    "depth": 8
    },
    {
     "name": "Britain Covey",
     "team": "PHI",
-    "pos": "WR"
+    "pos": "WR",
+    "depth": 5
    },
    {
     "name": "Andy Dalton",
@@ -3025,6 +2995,12 @@
     "team": "SF",
     "pos": "WR",
     "depth": 8
+   },
+   {
+    "name": "Brayden Willis",
+    "team": "SF",
+    "pos": "TE",
+    "depth": 4
    },
    {
     "name": "Eddy Pineiro",
