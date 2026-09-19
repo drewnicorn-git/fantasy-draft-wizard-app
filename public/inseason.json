@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "builtAt": "2026-09-18T15:16:50.555Z",
- "fetchedAt": "2026-09-18T15:16:50.556Z",
+ "builtAt": "2026-09-19T14:54:19.576Z",
+ "fetchedAt": "2026-09-19T14:54:19.577Z",
  "currentWeek": 2,
  "projectionWeek": 3,
  "players": {
@@ -55,7 +55,7 @@
    "projIsFallback": true,
    "posRankStd": 31,
    "posRankPpr": 27,
-   "injuryStatus": null
+   "injuryStatus": "Questionable"
   },
   "jaxon smith njigba|WR": {
    "playerId": "jaxon smith njigba|WR",
@@ -237,7 +237,7 @@
    "projIsFallback": true,
    "posRankStd": 10,
    "posRankPpr": 8,
-   "injuryStatus": "Questionable"
+   "injuryStatus": "Out"
   },
   "george pickens|WR": {
    "playerId": "george pickens|WR",
@@ -432,7 +432,7 @@
    "projIsFallback": true,
    "posRankStd": 4,
    "posRankPpr": 7,
-   "injuryStatus": "Questionable"
+   "injuryStatus": "Doubtful"
   },
   "breece hall|RB": {
    "playerId": "breece hall|RB",
@@ -499,19 +499,6 @@
    "posRankPpr": 29,
    "injuryStatus": null
   },
-  "ladd mcconkey|WR": {
-   "playerId": "ladd mcconkey|WR",
-   "seasonPtsStd": 14.2,
-   "seasonPtsPpr": 19.2,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 7.1,
-   "projPtsPpr": 9.6,
-   "projIsFallback": true,
-   "posRankStd": 11,
-   "posRankPpr": 12,
-   "injuryStatus": "Questionable"
-  },
   "colston loveland|TE": {
    "playerId": "colston loveland|TE",
    "seasonPtsStd": 0,
@@ -524,6 +511,19 @@
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
+  },
+  "ladd mcconkey|WR": {
+   "playerId": "ladd mcconkey|WR",
+   "seasonPtsStd": 14.2,
+   "seasonPtsPpr": 19.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 7.1,
+   "projPtsPpr": 9.6,
+   "projIsFallback": true,
+   "posRankStd": 11,
+   "posRankPpr": 12,
+   "injuryStatus": "Questionable"
   },
   "travis etienne|RB": {
    "playerId": "travis etienne|RB",
@@ -577,19 +577,6 @@
    "posRankPpr": 102,
    "injuryStatus": null
   },
-  "joe burrow|QB": {
-   "playerId": "joe burrow|QB",
-   "seasonPtsStd": 15.16,
-   "seasonPtsPpr": 15.16,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 7.58,
-   "projPtsPpr": 7.58,
-   "projIsFallback": true,
-   "posRankStd": 20,
-   "posRankPpr": 20,
-   "injuryStatus": "Questionable"
-  },
   "dandre swift|RB": {
    "playerId": "dandre swift|RB",
    "seasonPtsStd": 31.4,
@@ -601,6 +588,19 @@
    "projIsFallback": true,
    "posRankStd": 2,
    "posRankPpr": 5,
+   "injuryStatus": null
+  },
+  "joe burrow|QB": {
+   "playerId": "joe burrow|QB",
+   "seasonPtsStd": 15.16,
+   "seasonPtsPpr": 15.16,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 7.58,
+   "projPtsPpr": 7.58,
+   "projIsFallback": true,
+   "posRankStd": 20,
+   "posRankPpr": 20,
    "injuryStatus": "Questionable"
   },
   "bucky irving|RB": {
@@ -798,19 +798,6 @@
    "posRankPpr": 2,
    "injuryStatus": null
   },
-  "jadarian price|RB": {
-   "playerId": "jadarian price|RB",
-   "seasonPtsStd": 5.8,
-   "seasonPtsPpr": 7.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.9,
-   "projPtsPpr": 3.9,
-   "projIsFallback": true,
-   "posRankStd": 35,
-   "posRankPpr": 37,
-   "injuryStatus": null
-  },
   "caleb williams|QB": {
    "playerId": "caleb williams|QB",
    "seasonPtsStd": 37.26,
@@ -822,6 +809,19 @@
    "projIsFallback": true,
    "posRankStd": 1,
    "posRankPpr": 1,
+   "injuryStatus": null
+  },
+  "jadarian price|RB": {
+   "playerId": "jadarian price|RB",
+   "seasonPtsStd": 5.8,
+   "seasonPtsPpr": 7.8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.9,
+   "projPtsPpr": 3.9,
+   "projIsFallback": true,
+   "posRankStd": 35,
+   "posRankPpr": 37,
    "injuryStatus": null
   },
   "sam laporta|TE": {
@@ -889,19 +889,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "carnell tate|WR": {
-   "playerId": "carnell tate|WR",
-   "seasonPtsStd": 3.8,
-   "seasonPtsPpr": 7.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 1.9,
-   "projPtsPpr": 3.9,
-   "projIsFallback": true,
-   "posRankStd": 57,
-   "posRankPpr": 52,
-   "injuryStatus": null
-  },
   "jaylen warren|RB": {
    "playerId": "jaylen warren|RB",
    "seasonPtsStd": 5.3,
@@ -913,6 +900,19 @@
    "projIsFallback": true,
    "posRankStd": 37,
    "posRankPpr": 25,
+   "injuryStatus": null
+  },
+  "carnell tate|WR": {
+   "playerId": "carnell tate|WR",
+   "seasonPtsStd": 3.8,
+   "seasonPtsPpr": 7.8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.9,
+   "projPtsPpr": 3.9,
+   "projIsFallback": true,
+   "posRankStd": 57,
+   "posRankPpr": 52,
    "injuryStatus": null
   },
   "harold fannin|TE": {
@@ -965,7 +965,7 @@
    "projIsFallback": true,
    "posRankStd": 45,
    "posRankPpr": 41,
-   "injuryStatus": "Questionable"
+   "injuryStatus": null
   },
   "courtland sutton|WR": {
    "playerId": "courtland sutton|WR",
@@ -1006,19 +1006,6 @@
    "posRankPpr": 44,
    "injuryStatus": null
   },
-  "justin herbert|QB": {
-   "playerId": "justin herbert|QB",
-   "seasonPtsStd": 14.26,
-   "seasonPtsPpr": 14.26,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 7.13,
-   "projPtsPpr": 7.13,
-   "projIsFallback": true,
-   "posRankStd": 22,
-   "posRankPpr": 22,
-   "injuryStatus": null
-  },
   "trevor lawrence|QB": {
    "playerId": "trevor lawrence|QB",
    "seasonPtsStd": 26.1,
@@ -1030,6 +1017,19 @@
    "projIsFallback": true,
    "posRankStd": 5,
    "posRankPpr": 5,
+   "injuryStatus": null
+  },
+  "justin herbert|QB": {
+   "playerId": "justin herbert|QB",
+   "seasonPtsStd": 14.26,
+   "seasonPtsPpr": 14.26,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 7.13,
+   "projPtsPpr": 7.13,
+   "projIsFallback": true,
+   "posRankStd": 22,
+   "posRankPpr": 22,
    "injuryStatus": null
   },
   "rico dowdle|RB": {
@@ -1044,19 +1044,6 @@
    "posRankStd": 58,
    "posRankPpr": 48,
    "injuryStatus": null
-  },
-  "brian thomas|WR": {
-   "playerId": "brian thomas|WR",
-   "seasonPtsStd": 4,
-   "seasonPtsPpr": 7,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2,
-   "projPtsPpr": 3.5,
-   "projIsFallback": true,
-   "posRankStd": 54,
-   "posRankPpr": 58,
-   "injuryStatus": "Questionable"
   },
   "chuba hubbard|RB": {
    "playerId": "chuba hubbard|RB",
@@ -1084,6 +1071,19 @@
    "posRankPpr": 31,
    "injuryStatus": null
   },
+  "brian thomas|WR": {
+   "playerId": "brian thomas|WR",
+   "seasonPtsStd": 4,
+   "seasonPtsPpr": 7,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2,
+   "projPtsPpr": 3.5,
+   "projIsFallback": true,
+   "posRankStd": 54,
+   "posRankPpr": 58,
+   "injuryStatus": null
+  },
   "michael pittman|WR": {
    "playerId": "michael pittman|WR",
    "seasonPtsStd": 5.8,
@@ -1096,19 +1096,6 @@
    "posRankStd": 39,
    "posRankPpr": 44,
    "injuryStatus": "Questionable"
-  },
-  "travis kelce|TE": {
-   "playerId": "travis kelce|TE",
-   "seasonPtsStd": 7.1,
-   "seasonPtsPpr": 10.1,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 3.55,
-   "projPtsPpr": 5.05,
-   "projIsFallback": true,
-   "posRankStd": 15,
-   "posRankPpr": 16,
-   "injuryStatus": null
   },
   "chris godwin|WR": {
    "playerId": "chris godwin|WR",
@@ -1123,6 +1110,19 @@
    "posRankPpr": 47,
    "injuryStatus": null
   },
+  "travis kelce|TE": {
+   "playerId": "travis kelce|TE",
+   "seasonPtsStd": 7.1,
+   "seasonPtsPpr": 10.1,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 3.55,
+   "projPtsPpr": 5.05,
+   "projIsFallback": true,
+   "posRankStd": 15,
+   "posRankPpr": 16,
+   "injuryStatus": null
+  },
   "alec pierce|WR": {
    "playerId": "alec pierce|WR",
    "seasonPtsStd": 6.1,
@@ -1134,7 +1134,7 @@
    "projIsFallback": true,
    "posRankStd": 36,
    "posRankPpr": 34,
-   "injuryStatus": "Questionable"
+   "injuryStatus": null
   },
   "jaxson dart|QB": {
    "playerId": "jaxson dart|QB",
@@ -1160,6 +1160,19 @@
    "projIsFallback": true,
    "posRankStd": 34,
    "posRankPpr": 38,
+   "injuryStatus": null
+  },
+  "patrick mahomes|QB": {
+   "playerId": "patrick mahomes|QB",
+   "seasonPtsStd": 22.66,
+   "seasonPtsPpr": 22.66,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 11.33,
+   "projPtsPpr": 11.33,
+   "projIsFallback": true,
+   "posRankStd": 9,
+   "posRankPpr": 9,
    "injuryStatus": null
   },
   "stefon diggs|WR": {
@@ -1199,19 +1212,6 @@
    "projIsFallback": true,
    "posRankStd": 45,
    "posRankPpr": 53,
-   "injuryStatus": null
-  },
-  "patrick mahomes|QB": {
-   "playerId": "patrick mahomes|QB",
-   "seasonPtsStd": 22.66,
-   "seasonPtsPpr": 22.66,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 11.33,
-   "projPtsPpr": 11.33,
-   "projIsFallback": true,
-   "posRankStd": 9,
-   "posRankPpr": 9,
    "injuryStatus": null
   },
   "kenny gainwell|RB": {
@@ -1266,6 +1266,19 @@
    "posRankPpr": 32,
    "injuryStatus": null
   },
+  "dalton kincaid|TE": {
+   "playerId": "dalton kincaid|TE",
+   "seasonPtsStd": 28.5,
+   "seasonPtsPpr": 40.5,
+   "prevWeekPtsStd": 15.5,
+   "prevWeekPtsPpr": 22.5,
+   "projPtsStd": 14.25,
+   "projPtsPpr": 20.25,
+   "projIsFallback": true,
+   "posRankStd": 1,
+   "posRankPpr": 1,
+   "injuryStatus": null
+  },
   "josh downs|WR": {
    "playerId": "josh downs|WR",
    "seasonPtsStd": 3.7,
@@ -1303,19 +1316,6 @@
    "projIsFallback": true,
    "posRankStd": 31,
    "posRankPpr": 31,
-   "injuryStatus": null
-  },
-  "dalton kincaid|TE": {
-   "playerId": "dalton kincaid|TE",
-   "seasonPtsStd": 28.5,
-   "seasonPtsPpr": 40.5,
-   "prevWeekPtsStd": 15.5,
-   "prevWeekPtsPpr": 22.5,
-   "projPtsStd": 14.25,
-   "projPtsPpr": 20.25,
-   "projIsFallback": true,
-   "posRankStd": 1,
-   "posRankPpr": 1,
    "injuryStatus": null
   },
   "jordan addison|WR": {
@@ -1422,6 +1422,19 @@
    "posRankPpr": 1,
    "injuryStatus": null
   },
+  "jakobi meyers|WR": {
+   "playerId": "jakobi meyers|WR",
+   "seasonPtsStd": 10.2,
+   "seasonPtsPpr": 12.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 5.1,
+   "projPtsPpr": 6.1,
+   "projIsFallback": true,
+   "posRankStd": 21,
+   "posRankPpr": 28,
+   "injuryStatus": null
+  },
   "blake corum|RB": {
    "playerId": "blake corum|RB",
    "seasonPtsStd": 5.4,
@@ -1448,18 +1461,18 @@
    "posRankPpr": 26,
    "injuryStatus": null
   },
-  "jakobi meyers|WR": {
-   "playerId": "jakobi meyers|WR",
-   "seasonPtsStd": 10.2,
-   "seasonPtsPpr": 12.2,
+  "jacory croskey merritt|RB": {
+   "playerId": "jacory croskey merritt|RB",
+   "seasonPtsStd": 11.6,
+   "seasonPtsPpr": 12.6,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 5.1,
-   "projPtsPpr": 6.1,
+   "projPtsStd": 5.8,
+   "projPtsPpr": 6.3,
    "projIsFallback": true,
-   "posRankStd": 21,
-   "posRankPpr": 28,
-   "injuryStatus": "Questionable"
+   "posRankStd": 18,
+   "posRankPpr": 22,
+   "injuryStatus": null
   },
   "marshawn lloyd|RB": {
    "playerId": "marshawn lloyd|RB",
@@ -1472,19 +1485,6 @@
    "projIsFallback": true,
    "posRankStd": 44,
    "posRankPpr": 52,
-   "injuryStatus": null
-  },
-  "jacory croskey merritt|RB": {
-   "playerId": "jacory croskey merritt|RB",
-   "seasonPtsStd": 11.6,
-   "seasonPtsPpr": 12.6,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 5.8,
-   "projPtsPpr": 6.3,
-   "projIsFallback": true,
-   "posRankStd": 18,
-   "posRankPpr": 22,
    "injuryStatus": null
   },
   "makai lemon|WR": {
@@ -1513,19 +1513,6 @@
    "posRankPpr": 44,
    "injuryStatus": null
   },
-  "kyle monangai|RB": {
-   "playerId": "kyle monangai|RB",
-   "seasonPtsStd": 18.4,
-   "seasonPtsPpr": 20.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 9.2,
-   "projPtsPpr": 10.2,
-   "projIsFallback": true,
-   "posRankStd": 11,
-   "posRankPpr": 11,
-   "injuryStatus": "Questionable"
-  },
   "SEA|DST": {
    "playerId": "SEA|DST",
    "seasonPtsStd": 13,
@@ -1550,6 +1537,19 @@
    "projIsFallback": true,
    "posRankStd": 2,
    "posRankPpr": 2,
+   "injuryStatus": null
+  },
+  "kyle monangai|RB": {
+   "playerId": "kyle monangai|RB",
+   "seasonPtsStd": 18.4,
+   "seasonPtsPpr": 20.4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 9.2,
+   "projPtsPpr": 10.2,
+   "projIsFallback": true,
+   "posRankStd": 11,
+   "posRankPpr": 11,
    "injuryStatus": null
   },
   "jordan mason|RB": {
@@ -1578,19 +1578,6 @@
    "posRankPpr": 17,
    "injuryStatus": null
   },
-  "xavier worthy|WR": {
-   "playerId": "xavier worthy|WR",
-   "seasonPtsStd": 1.8,
-   "seasonPtsPpr": 4.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.9,
-   "projPtsPpr": 2.4,
-   "projIsFallback": true,
-   "posRankStd": 84,
-   "posRankPpr": 73,
-   "injuryStatus": null
-  },
   "khalil shakir|WR": {
    "playerId": "khalil shakir|WR",
    "seasonPtsStd": 8.8,
@@ -1602,6 +1589,19 @@
    "projIsFallback": true,
    "posRankStd": 4,
    "posRankPpr": 4,
+   "injuryStatus": null
+  },
+  "xavier worthy|WR": {
+   "playerId": "xavier worthy|WR",
+   "seasonPtsStd": 1.8,
+   "seasonPtsPpr": 4.8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.9,
+   "projPtsPpr": 2.4,
+   "projIsFallback": true,
+   "posRankStd": 84,
+   "posRankPpr": 73,
    "injuryStatus": null
   },
   "kc concepcion|WR": {
@@ -1656,6 +1656,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "jalen coker|WR": {
+   "playerId": "jalen coker|WR",
+   "seasonPtsStd": 25.8,
+   "seasonPtsPpr": 33.8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 12.9,
+   "projPtsPpr": 16.9,
+   "projIsFallback": true,
+   "posRankStd": 2,
+   "posRankPpr": 1,
+   "injuryStatus": null
+  },
   "rachaad white|RB": {
    "playerId": "rachaad white|RB",
    "seasonPtsStd": 2.7,
@@ -1680,20 +1693,7 @@
    "projIsFallback": true,
    "posRankStd": 35,
    "posRankPpr": 35,
-   "injuryStatus": "Questionable"
-  },
-  "jalen coker|WR": {
-   "playerId": "jalen coker|WR",
-   "seasonPtsStd": 25.8,
-   "seasonPtsPpr": 33.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 12.9,
-   "projPtsPpr": 16.9,
-   "projIsFallback": true,
-   "posRankStd": 2,
-   "posRankPpr": 1,
-   "injuryStatus": "Questionable"
+   "injuryStatus": "Out"
   },
   "baker mayfield|QB": {
    "playerId": "baker mayfield|QB",
@@ -1825,19 +1825,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "tyler shough|QB": {
-   "playerId": "tyler shough|QB",
-   "seasonPtsStd": 25.2,
-   "seasonPtsPpr": 25.2,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 12.6,
-   "projPtsPpr": 12.6,
-   "projIsFallback": true,
-   "posRankStd": 6,
-   "posRankPpr": 6,
-   "injuryStatus": null
-  },
   "cam little|K": {
    "playerId": "cam little|K",
    "seasonPtsStd": 12,
@@ -1849,6 +1836,19 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "tyler shough|QB": {
+   "playerId": "tyler shough|QB",
+   "seasonPtsStd": 25.2,
+   "seasonPtsPpr": 25.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 12.6,
+   "projPtsPpr": 12.6,
+   "projIsFallback": true,
+   "posRankStd": 6,
+   "posRankPpr": 6,
    "injuryStatus": null
   },
   "tyler allgeier|RB": {
@@ -1864,17 +1864,17 @@
    "posRankPpr": 29,
    "injuryStatus": null
   },
-  "tyjae spears|RB": {
-   "playerId": "tyjae spears|RB",
-   "seasonPtsStd": 2.4,
-   "seasonPtsPpr": 4.4,
+  "juwan johnson|TE": {
+   "playerId": "juwan johnson|TE",
+   "seasonPtsStd": 11.4,
+   "seasonPtsPpr": 14.4,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 1.2,
-   "projPtsPpr": 2.2,
+   "projPtsStd": 5.7,
+   "projPtsPpr": 7.2,
    "projIsFallback": true,
-   "posRankStd": 56,
-   "posRankPpr": 45,
+   "posRankStd": 6,
+   "posRankPpr": 7,
    "injuryStatus": null
   },
   "rashid shaheed|WR": {
@@ -1890,6 +1890,19 @@
    "posRankPpr": 100,
    "injuryStatus": null
   },
+  "tyjae spears|RB": {
+   "playerId": "tyjae spears|RB",
+   "seasonPtsStd": 2.4,
+   "seasonPtsPpr": 4.4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.2,
+   "projPtsPpr": 2.2,
+   "projIsFallback": true,
+   "posRankStd": 56,
+   "posRankPpr": 45,
+   "injuryStatus": null
+  },
   "hunter henry|TE": {
    "playerId": "hunter henry|TE",
    "seasonPtsStd": 2.6,
@@ -1902,19 +1915,6 @@
    "posRankStd": 27,
    "posRankPpr": 25,
    "injuryStatus": null
-  },
-  "juwan johnson|TE": {
-   "playerId": "juwan johnson|TE",
-   "seasonPtsStd": 11.4,
-   "seasonPtsPpr": 14.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 5.7,
-   "projPtsPpr": 7.2,
-   "projIsFallback": true,
-   "posRankStd": 6,
-   "posRankPpr": 7,
-   "injuryStatus": "Questionable"
   },
   "NE|DST": {
    "playerId": "NE|DST",
@@ -2031,7 +2031,7 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": null
+   "injuryStatus": "Out"
   },
   "harrison mevis|K": {
    "playerId": "harrison mevis|K",
@@ -2041,19 +2041,6 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 0.5,
    "projPtsPpr": 0.5,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "jonah coleman|RB": {
-   "playerId": "jonah coleman|RB",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
@@ -2072,6 +2059,19 @@
    "posRankPpr": 35,
    "injuryStatus": "Questionable"
   },
+  "jonah coleman|RB": {
+   "playerId": "jonah coleman|RB",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "daniel jones|QB": {
    "playerId": "daniel jones|QB",
    "seasonPtsStd": 10.04,
@@ -2085,17 +2085,17 @@
    "posRankPpr": 28,
    "injuryStatus": null
   },
-  "brenton strange|TE": {
-   "playerId": "brenton strange|TE",
-   "seasonPtsStd": 8.3,
-   "seasonPtsPpr": 10.3,
+  "denzel boston|WR": {
+   "playerId": "denzel boston|WR",
+   "seasonPtsStd": 11.9,
+   "seasonPtsPpr": 13.9,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 4.15,
-   "projPtsPpr": 5.15,
+   "projPtsStd": 5.95,
+   "projPtsPpr": 6.95,
    "projIsFallback": true,
-   "posRankStd": 13,
-   "posRankPpr": 15,
+   "posRankStd": 16,
+   "posRankPpr": 24,
    "injuryStatus": null
   },
   "jake bates|K": {
@@ -2111,17 +2111,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "denzel boston|WR": {
-   "playerId": "denzel boston|WR",
-   "seasonPtsStd": 11.9,
-   "seasonPtsPpr": 13.9,
+  "brenton strange|TE": {
+   "playerId": "brenton strange|TE",
+   "seasonPtsStd": 8.3,
+   "seasonPtsPpr": 10.3,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 5.95,
-   "projPtsPpr": 6.95,
+   "projPtsStd": 4.15,
+   "projPtsPpr": 5.15,
    "projIsFallback": true,
-   "posRankStd": 16,
-   "posRankPpr": 24,
+   "posRankStd": 13,
+   "posRankPpr": 15,
    "injuryStatus": null
   },
   "dalton schultz|TE": {
@@ -2163,19 +2163,6 @@
    "posRankPpr": null,
    "injuryStatus": "IR"
   },
-  "LAC|DST": {
-   "playerId": "LAC|DST",
-   "seasonPtsStd": 1,
-   "seasonPtsPpr": 1,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.5,
-   "projPtsPpr": 0.5,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "malik willis|QB": {
    "playerId": "malik willis|QB",
    "seasonPtsStd": 17.7,
@@ -2197,6 +2184,32 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 5,
    "projPtsPpr": 5,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "LAC|DST": {
+   "playerId": "LAC|DST",
+   "seasonPtsStd": 1,
+   "seasonPtsPpr": 1,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.5,
+   "projPtsPpr": 0.5,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "harrison butker|K": {
+   "playerId": "harrison butker|K",
+   "seasonPtsStd": 7,
+   "seasonPtsPpr": 7,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 3.5,
+   "projPtsPpr": 3.5,
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
@@ -2228,17 +2241,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "harrison butker|K": {
-   "playerId": "harrison butker|K",
-   "seasonPtsStd": 7,
-   "seasonPtsPpr": 7,
+  "kenyon sadiq|TE": {
+   "playerId": "kenyon sadiq|TE",
+   "seasonPtsStd": 8.4,
+   "seasonPtsPpr": 11.4,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 3.5,
-   "projPtsPpr": 3.5,
+   "projPtsStd": 4.2,
+   "projPtsPpr": 5.7,
    "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
+   "posRankStd": 12,
+   "posRankPpr": 12,
    "injuryStatus": null
   },
   "DET|DST": {
@@ -2254,19 +2267,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "kenyon sadiq|TE": {
-   "playerId": "kenyon sadiq|TE",
-   "seasonPtsStd": 8.4,
-   "seasonPtsPpr": 11.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 4.2,
-   "projPtsPpr": 5.7,
-   "projIsFallback": true,
-   "posRankStd": 12,
-   "posRankPpr": 12,
-   "injuryStatus": null
-  },
   "bryce young|QB": {
    "playerId": "bryce young|QB",
    "seasonPtsStd": 32.44,
@@ -2278,6 +2278,19 @@
    "projIsFallback": true,
    "posRankStd": 3,
    "posRankPpr": 3,
+   "injuryStatus": null
+  },
+  "evan mcpherson|K": {
+   "playerId": "evan mcpherson|K",
+   "seasonPtsStd": 19,
+   "seasonPtsPpr": 19,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 9.5,
+   "projPtsPpr": 9.5,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
    "injuryStatus": null
   },
   "omar cooper|WR": {
@@ -2292,19 +2305,6 @@
    "posRankStd": 66,
    "posRankPpr": 80,
    "injuryStatus": "Out"
-  },
-  "evan mcpherson|K": {
-   "playerId": "evan mcpherson|K",
-   "seasonPtsStd": 19,
-   "seasonPtsPpr": 19,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 9.5,
-   "projPtsPpr": 9.5,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
   },
   "jerry jeudy|WR": {
    "playerId": "jerry jeudy|WR",
@@ -2345,19 +2345,6 @@
    "posRankPpr": 38,
    "injuryStatus": null
   },
-  "jakobi lane|WR": {
-   "playerId": "jakobi lane|WR",
-   "seasonPtsStd": 1.1,
-   "seasonPtsPpr": 2.1,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.55,
-   "projPtsPpr": 1.05,
-   "projIsFallback": true,
-   "posRankStd": 91,
-   "posRankPpr": 93,
-   "injuryStatus": "IR"
-  },
   "KC|DST": {
    "playerId": "KC|DST",
    "seasonPtsStd": 13,
@@ -2397,18 +2384,18 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "chig okonkwo|TE": {
-   "playerId": "chig okonkwo|TE",
-   "seasonPtsStd": 1.6,
-   "seasonPtsPpr": 3.6,
+  "jakobi lane|WR": {
+   "playerId": "jakobi lane|WR",
+   "seasonPtsStd": 1.1,
+   "seasonPtsPpr": 2.1,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 0.8,
-   "projPtsPpr": 1.8,
+   "projPtsStd": 0.55,
+   "projPtsPpr": 1.05,
    "projIsFallback": true,
-   "posRankStd": 37,
-   "posRankPpr": 36,
-   "injuryStatus": "Questionable"
+   "posRankStd": 91,
+   "posRankPpr": 93,
+   "injuryStatus": "IR"
   },
   "aj barner|TE": {
    "playerId": "aj barner|TE",
@@ -2436,6 +2423,19 @@
    "posRankPpr": 32,
    "injuryStatus": null
   },
+  "chig okonkwo|TE": {
+   "playerId": "chig okonkwo|TE",
+   "seasonPtsStd": 1.6,
+   "seasonPtsPpr": 3.6,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.8,
+   "projPtsPpr": 1.8,
+   "projIsFallback": true,
+   "posRankStd": 37,
+   "posRankPpr": 36,
+   "injuryStatus": "Out"
+  },
   "cooper kupp|WR": {
    "playerId": "cooper kupp|WR",
    "seasonPtsStd": 3.5,
@@ -2462,19 +2462,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "tank bigsby|RB": {
-   "playerId": "tank bigsby|RB",
-   "seasonPtsStd": 0.3,
-   "seasonPtsPpr": 0.3,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.15,
-   "projPtsPpr": 0.15,
-   "projIsFallback": true,
-   "posRankStd": 71,
-   "posRankPpr": 74,
-   "injuryStatus": null
-  },
   "will reichard|K": {
    "playerId": "will reichard|K",
    "seasonPtsStd": 7,
@@ -2486,6 +2473,19 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "tank bigsby|RB": {
+   "playerId": "tank bigsby|RB",
+   "seasonPtsStd": 0.3,
+   "seasonPtsPpr": 0.3,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.15,
+   "projPtsPpr": 0.15,
+   "projIsFallback": true,
+   "posRankStd": 71,
+   "posRankPpr": 74,
    "injuryStatus": null
   },
   "tyrone tracy|RB": {
@@ -2540,17 +2540,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "keaton mitchell|RB": {
-   "playerId": "keaton mitchell|RB",
-   "seasonPtsStd": 0.9,
-   "seasonPtsPpr": 0.9,
+  "caleb douglas|WR": {
+   "playerId": "caleb douglas|WR",
+   "seasonPtsStd": 9.4,
+   "seasonPtsPpr": 14.4,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 0.45,
-   "projPtsPpr": 0.45,
+   "projPtsStd": 4.7,
+   "projPtsPpr": 7.2,
    "projIsFallback": true,
-   "posRankStd": 66,
-   "posRankPpr": 69,
+   "posRankStd": 24,
+   "posRankPpr": 22,
    "injuryStatus": null
   },
   "braelon allen|RB": {
@@ -2579,19 +2579,6 @@
    "posRankPpr": 48,
    "injuryStatus": null
   },
-  "caleb douglas|WR": {
-   "playerId": "caleb douglas|WR",
-   "seasonPtsStd": 9.4,
-   "seasonPtsPpr": 14.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 4.7,
-   "projPtsPpr": 7.2,
-   "projIsFallback": true,
-   "posRankStd": 24,
-   "posRankPpr": 22,
-   "injuryStatus": null
-  },
   "jaylin noel|WR": {
    "playerId": "jaylin noel|WR",
    "seasonPtsStd": 5.3,
@@ -2618,6 +2605,19 @@
    "posRankPpr": 71,
    "injuryStatus": null
   },
+  "jalen nailor|WR": {
+   "playerId": "jalen nailor|WR",
+   "seasonPtsStd": 2.7,
+   "seasonPtsPpr": 5.7,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.35,
+   "projPtsPpr": 2.85,
+   "projIsFallback": true,
+   "posRankStd": 69,
+   "posRankPpr": 64,
+   "injuryStatus": null
+  },
   "ray davis|RB": {
    "playerId": "ray davis|RB",
    "seasonPtsStd": 0.3,
@@ -2629,19 +2629,6 @@
    "projIsFallback": true,
    "posRankStd": 70,
    "posRankPpr": 73,
-   "injuryStatus": null
-  },
-  "cam ward|QB": {
-   "playerId": "cam ward|QB",
-   "seasonPtsStd": 11.7,
-   "seasonPtsPpr": 11.7,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 5.85,
-   "projPtsPpr": 5.85,
-   "projIsFallback": true,
-   "posRankStd": 26,
-   "posRankPpr": 26,
    "injuryStatus": null
   },
   "ryan flournoy|WR": {
@@ -2683,17 +2670,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "chase mclaughlin|K": {
-   "playerId": "chase mclaughlin|K",
-   "seasonPtsStd": 11,
-   "seasonPtsPpr": 11,
+  "cam ward|QB": {
+   "playerId": "cam ward|QB",
+   "seasonPtsStd": 11.7,
+   "seasonPtsPpr": 11.7,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 5.5,
-   "projPtsPpr": 5.5,
+   "projPtsStd": 5.85,
+   "projPtsPpr": 5.85,
    "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
+   "posRankStd": 26,
+   "posRankPpr": 26,
    "injuryStatus": null
   },
   "zachariah branch|WR": {
@@ -2709,17 +2696,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "jalen nailor|WR": {
-   "playerId": "jalen nailor|WR",
-   "seasonPtsStd": 2.7,
-   "seasonPtsPpr": 5.7,
+  "chase mclaughlin|K": {
+   "playerId": "chase mclaughlin|K",
+   "seasonPtsStd": 11,
+   "seasonPtsPpr": 11,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 1.35,
-   "projPtsPpr": 2.85,
+   "projPtsStd": 5.5,
+   "projPtsPpr": 5.5,
    "projIsFallback": true,
-   "posRankStd": 69,
-   "posRankPpr": 64,
+   "posRankStd": null,
+   "posRankPpr": null,
    "injuryStatus": null
   },
   "najee harris|RB": {
@@ -2735,19 +2722,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "kayshon boutte|WR": {
-   "playerId": "kayshon boutte|WR",
-   "seasonPtsStd": 2.1,
-   "seasonPtsPpr": 3.1,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 1.05,
-   "projPtsPpr": 1.55,
-   "projIsFallback": true,
-   "posRankStd": 79,
-   "posRankPpr": 88,
-   "injuryStatus": null
-  },
   "adonai mitchell|WR": {
    "playerId": "adonai mitchell|WR",
    "seasonPtsStd": 6,
@@ -2759,6 +2733,19 @@
    "projIsFallback": true,
    "posRankStd": 37,
    "posRankPpr": 40,
+   "injuryStatus": null
+  },
+  "kayshon boutte|WR": {
+   "playerId": "kayshon boutte|WR",
+   "seasonPtsStd": 2.1,
+   "seasonPtsPpr": 3.1,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.05,
+   "projPtsPpr": 1.55,
+   "projIsFallback": true,
+   "posRankStd": 79,
+   "posRankPpr": 88,
    "injuryStatus": null
   },
   "isaac teslaa|WR": {
@@ -2774,19 +2761,6 @@
    "posRankPpr": 6,
    "injuryStatus": null
   },
-  "kaleb johnson|RB": {
-   "playerId": "kaleb johnson|RB",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 27,
-   "projPtsPpr": 32,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "pat freiermuth|TE": {
    "playerId": "pat freiermuth|TE",
    "seasonPtsStd": 10.6,
@@ -2798,6 +2772,19 @@
    "projIsFallback": true,
    "posRankStd": 7,
    "posRankPpr": 6,
+   "injuryStatus": null
+  },
+  "keaton mitchell|RB": {
+   "playerId": "keaton mitchell|RB",
+   "seasonPtsStd": 0.9,
+   "seasonPtsPpr": 0.9,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.45,
+   "projPtsPpr": 0.45,
+   "projIsFallback": true,
+   "posRankStd": 66,
+   "posRankPpr": 69,
    "injuryStatus": null
   },
   "DAL|DST": {
@@ -2813,17 +2800,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "malik washington|WR": {
-   "playerId": "malik washington|WR",
-   "seasonPtsStd": 3.3,
-   "seasonPtsPpr": 6.3,
+  "malachi fields|WR": {
+   "playerId": "malachi fields|WR",
+   "seasonPtsStd": 2.5,
+   "seasonPtsPpr": 4.5,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 1.65,
-   "projPtsPpr": 3.15,
+   "projPtsStd": 1.25,
+   "projPtsPpr": 2.25,
    "projIsFallback": true,
-   "posRankStd": 62,
-   "posRankPpr": 61,
+   "posRankStd": 76,
+   "posRankPpr": 77,
    "injuryStatus": null
   },
   "devaughn vele|WR": {
@@ -2839,17 +2826,17 @@
    "posRankPpr": 10,
    "injuryStatus": null
   },
-  "trey smack|K": {
-   "playerId": "trey smack|K",
-   "seasonPtsStd": 12,
-   "seasonPtsPpr": 12,
+  "malik washington|WR": {
+   "playerId": "malik washington|WR",
+   "seasonPtsStd": 3.3,
+   "seasonPtsPpr": 6.3,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 6,
-   "projPtsPpr": 6,
+   "projPtsStd": 1.65,
+   "projPtsPpr": 3.15,
    "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
+   "posRankStd": 62,
+   "posRankPpr": 61,
    "injuryStatus": null
   },
   "kimani vidal|RB": {
@@ -2860,6 +2847,19 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 0,
    "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "trey smack|K": {
+   "playerId": "trey smack|K",
+   "seasonPtsStd": 12,
+   "seasonPtsPpr": 12,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 6,
+   "projPtsPpr": 6,
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
@@ -2917,19 +2917,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "david njoku|TE": {
-   "playerId": "david njoku|TE",
-   "seasonPtsStd": 5.8,
-   "seasonPtsPpr": 10.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.9,
-   "projPtsPpr": 5.4,
-   "projIsFallback": true,
-   "posRankStd": 18,
-   "posRankPpr": 13,
-   "injuryStatus": null
-  },
   "rashod bateman|WR": {
    "playerId": "rashod bateman|WR",
    "seasonPtsStd": 0,
@@ -2941,6 +2928,19 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "david njoku|TE": {
+   "playerId": "david njoku|TE",
+   "seasonPtsStd": 5.8,
+   "seasonPtsPpr": 10.8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.9,
+   "projPtsPpr": 5.4,
+   "projIsFallback": true,
+   "posRankStd": 18,
+   "posRankPpr": 13,
    "injuryStatus": null
   },
   "cade otton|TE": {
@@ -3047,19 +3047,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "malachi fields|WR": {
-   "playerId": "malachi fields|WR",
-   "seasonPtsStd": 2.5,
-   "seasonPtsPpr": 4.5,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 1.25,
-   "projPtsPpr": 2.25,
-   "projIsFallback": true,
-   "posRankStd": 76,
-   "posRankPpr": 77,
-   "injuryStatus": null
-  },
   "chimere dike|WR": {
    "playerId": "chimere dike|WR",
    "seasonPtsStd": -1.3,
@@ -3071,32 +3058,6 @@
    "projIsFallback": true,
    "posRankStd": 109,
    "posRankPpr": 108,
-   "injuryStatus": null
-  },
-  "CLE|DST": {
-   "playerId": "CLE|DST",
-   "seasonPtsStd": 1,
-   "seasonPtsPpr": 1,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.5,
-   "projPtsPpr": 0.5,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "kaytron allen|RB": {
-   "playerId": "kaytron allen|RB",
-   "seasonPtsStd": 1.6,
-   "seasonPtsPpr": 1.6,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 37.9,
-   "projPtsPpr": 45.9,
-   "projIsFallback": false,
-   "posRankStd": 62,
-   "posRankPpr": 64,
    "injuryStatus": null
   },
   "antonio williams|WR": {
@@ -3112,6 +3073,32 @@
    "posRankPpr": 16,
    "injuryStatus": null
   },
+  "kaytron allen|RB": {
+   "playerId": "kaytron allen|RB",
+   "seasonPtsStd": 1.6,
+   "seasonPtsPpr": 1.6,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 37.9,
+   "projPtsPpr": 45.9,
+   "projIsFallback": false,
+   "posRankStd": 62,
+   "posRankPpr": 64,
+   "injuryStatus": null
+  },
+  "CLE|DST": {
+   "playerId": "CLE|DST",
+   "seasonPtsStd": 1,
+   "seasonPtsPpr": 1,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.5,
+   "projPtsPpr": 0.5,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "TB|DST": {
    "playerId": "TB|DST",
    "seasonPtsStd": 9,
@@ -3125,17 +3112,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "IND|DST": {
-   "playerId": "IND|DST",
-   "seasonPtsStd": 1,
-   "seasonPtsPpr": 1,
+  "mason taylor|TE": {
+   "playerId": "mason taylor|TE",
+   "seasonPtsStd": -0.2,
+   "seasonPtsPpr": 1.8,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 0.5,
-   "projPtsPpr": 0.5,
+   "projPtsStd": -0.1,
+   "projPtsPpr": 0.9,
    "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
+   "posRankStd": 62,
+   "posRankPpr": 53,
    "injuryStatus": null
   },
   "jack bech|WR": {
@@ -3164,17 +3151,17 @@
    "posRankPpr": 59,
    "injuryStatus": null
   },
-  "mason taylor|TE": {
-   "playerId": "mason taylor|TE",
-   "seasonPtsStd": -0.2,
-   "seasonPtsPpr": 1.8,
+  "IND|DST": {
+   "playerId": "IND|DST",
+   "seasonPtsStd": 1,
+   "seasonPtsPpr": 1,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": -0.1,
-   "projPtsPpr": 0.9,
+   "projPtsStd": 0.5,
+   "projPtsPpr": 0.5,
    "projIsFallback": true,
-   "posRankStd": 62,
-   "posRankPpr": 53,
+   "posRankStd": null,
+   "posRankPpr": null,
    "injuryStatus": null
   },
   "ATL|DST": {
@@ -3188,19 +3175,6 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "theo johnson|TE": {
-   "playerId": "theo johnson|TE",
-   "seasonPtsStd": 0.9,
-   "seasonPtsPpr": 1.9,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.45,
-   "projPtsPpr": 0.95,
-   "projIsFallback": true,
-   "posRankStd": 49,
-   "posRankPpr": 50,
    "injuryStatus": null
   },
   "jj mccarthy|QB": {
@@ -3229,18 +3203,18 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "marvin mims|WR": {
-   "playerId": "marvin mims|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
+  "NO|DST": {
+   "playerId": "NO|DST",
+   "seasonPtsStd": 3,
+   "seasonPtsPpr": 3,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
+   "projPtsStd": 1.5,
+   "projPtsPpr": 1.5,
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": "Questionable"
+   "injuryStatus": null
   },
   "NYG|DST": {
    "playerId": "NYG|DST",
@@ -3255,15 +3229,15 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "NO|DST": {
-   "playerId": "NO|DST",
-   "seasonPtsStd": 3,
-   "seasonPtsPpr": 3,
+  "kaleb johnson|RB": {
+   "playerId": "kaleb johnson|RB",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 1.5,
-   "projPtsPpr": 1.5,
-   "projIsFallback": true,
+   "projPtsStd": 27,
+   "projPtsPpr": 32,
+   "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
@@ -3293,6 +3267,19 @@
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
+  },
+  "marvin mims|WR": {
+   "playerId": "marvin mims|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": "Out"
   },
   "demond claiborne|RB": {
    "playerId": "demond claiborne|RB",
@@ -3372,19 +3359,6 @@
    "posRankPpr": 106,
    "injuryStatus": null
   },
-  "christian kirk|WR": {
-   "playerId": "christian kirk|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 27.4,
-   "projPtsPpr": 46.4,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": "IR"
-  },
   "audric estime|RB": {
    "playerId": "audric estime|RB",
    "seasonPtsStd": 0,
@@ -3398,6 +3372,19 @@
    "posRankPpr": null,
    "injuryStatus": "IR"
   },
+  "jaylen wright|RB": {
+   "playerId": "jaylen wright|RB",
+   "seasonPtsStd": -0.1,
+   "seasonPtsPpr": -0.1,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 38.1,
+   "projPtsPpr": 44.1,
+   "projIsFallback": false,
+   "posRankStd": 76,
+   "posRankPpr": 77,
+   "injuryStatus": null
+  },
   "emanuel wilson|RB": {
    "playerId": "emanuel wilson|RB",
    "seasonPtsStd": 0.3,
@@ -3410,6 +3397,19 @@
    "posRankStd": 69,
    "posRankPpr": 72,
    "injuryStatus": null
+  },
+  "christian kirk|WR": {
+   "playerId": "christian kirk|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 27.4,
+   "projPtsPpr": 46.4,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": "IR"
   },
   "matt gay|K": {
    "playerId": "matt gay|K",
@@ -3437,17 +3437,17 @@
    "posRankPpr": 56,
    "injuryStatus": null
   },
-  "jaylen wright|RB": {
-   "playerId": "jaylen wright|RB",
-   "seasonPtsStd": -0.1,
-   "seasonPtsPpr": -0.1,
+  "theo johnson|TE": {
+   "playerId": "theo johnson|TE",
+   "seasonPtsStd": 0.9,
+   "seasonPtsPpr": 1.9,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 38.1,
-   "projPtsPpr": 44.1,
-   "projIsFallback": false,
-   "posRankStd": 76,
-   "posRankPpr": 77,
+   "projPtsStd": 0.45,
+   "projPtsPpr": 0.95,
+   "projIsFallback": true,
+   "posRankStd": 49,
+   "posRankPpr": 50,
    "injuryStatus": null
   },
   "jake tonges|TE": {
@@ -3567,6 +3567,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "myles price|WR": {
+   "playerId": "myles price|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "brandon aiyuk|WR": {
    "playerId": "brandon aiyuk|WR",
    "seasonPtsStd": 0,
@@ -3579,6 +3592,19 @@
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": "DNR"
+  },
+  "kenny pickett|QB": {
+   "playerId": "kenny pickett|QB",
+   "seasonPtsStd": 2.4,
+   "seasonPtsPpr": 2.4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.2,
+   "projPtsPpr": 1.2,
+   "projIsFallback": true,
+   "posRankStd": 33,
+   "posRankPpr": 33,
+   "injuryStatus": null
   },
   "eli heidenreich|RB": {
    "playerId": "eli heidenreich|RB",
@@ -3604,32 +3630,6 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "myles price|WR": {
-   "playerId": "myles price|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "kenny pickett|QB": {
-   "playerId": "kenny pickett|QB",
-   "seasonPtsStd": 2.4,
-   "seasonPtsPpr": 2.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 1.2,
-   "projPtsPpr": 1.2,
-   "projIsFallback": true,
-   "posRankStd": 33,
-   "posRankPpr": 33,
    "injuryStatus": null
   },
   "LV|DST": {
@@ -3697,19 +3697,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "aj dillon|RB": {
-   "playerId": "aj dillon|RB",
-   "seasonPtsStd": 2.8,
-   "seasonPtsPpr": 2.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 1.4,
-   "projPtsPpr": 1.4,
-   "projIsFallback": true,
-   "posRankStd": 51,
-   "posRankPpr": 60,
-   "injuryStatus": null
-  },
   "stetson bennett|QB": {
    "playerId": "stetson bennett|QB",
    "seasonPtsStd": 1.42,
@@ -3721,6 +3708,19 @@
    "projIsFallback": true,
    "posRankStd": 34,
    "posRankPpr": 34,
+   "injuryStatus": null
+  },
+  "aj dillon|RB": {
+   "playerId": "aj dillon|RB",
+   "seasonPtsStd": 2.8,
+   "seasonPtsPpr": 2.8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.4,
+   "projPtsPpr": 1.4,
+   "projIsFallback": true,
+   "posRankStd": 51,
+   "posRankPpr": 60,
    "injuryStatus": null
   },
   "ryan fitzgerald|K": {
@@ -3827,19 +3827,6 @@
    "posRankPpr": 57,
    "injuryStatus": null
   },
-  "austin hooper|TE": {
-   "playerId": "austin hooper|TE",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 19.2,
-   "projPtsPpr": 33.2,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "cj donaldson|RB": {
    "playerId": "cj donaldson|RB",
    "seasonPtsStd": 0.2,
@@ -3853,6 +3840,19 @@
    "posRankPpr": 65,
    "injuryStatus": null
   },
+  "austin hooper|TE": {
+   "playerId": "austin hooper|TE",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 19.2,
+   "projPtsPpr": 33.2,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "british brooks|RB": {
    "playerId": "british brooks|RB",
    "seasonPtsStd": 0,
@@ -3861,19 +3861,6 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 7.1,
    "projPtsPpr": 10.1,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "lenny krieg|K": {
-   "playerId": "lenny krieg|K",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 6,
-   "projPtsPpr": 6,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -3890,6 +3877,32 @@
    "projIsFallback": false,
    "posRankStd": 32,
    "posRankPpr": 33,
+   "injuryStatus": null
+  },
+  "lenny krieg|K": {
+   "playerId": "lenny krieg|K",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 6,
+   "projPtsPpr": 6,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "tay martin|WR": {
+   "playerId": "tay martin|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
    "injuryStatus": null
   },
   "corey kiner|RB": {
@@ -3918,19 +3931,6 @@
    "posRankPpr": null,
    "injuryStatus": "IR"
   },
-  "drew stevens|K": {
-   "playerId": "drew stevens|K",
-   "seasonPtsStd": 4,
-   "seasonPtsPpr": 4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2,
-   "projPtsPpr": 2,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "jackson hawes|TE": {
    "playerId": "jackson hawes|TE",
    "seasonPtsStd": 0,
@@ -3940,6 +3940,19 @@
    "projPtsStd": 18.9,
    "projPtsPpr": 31.9,
    "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "drew stevens|K": {
+   "playerId": "drew stevens|K",
+   "seasonPtsStd": 4,
+   "seasonPtsPpr": 4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2,
+   "projPtsPpr": 2,
+   "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
@@ -3955,19 +3968,6 @@
    "projIsFallback": true,
    "posRankStd": 67,
    "posRankPpr": 81,
-   "injuryStatus": null
-  },
-  "tay martin|WR": {
-   "playerId": "tay martin|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
    "injuryStatus": null
   },
   "xavier smith|WR": {
@@ -3996,19 +3996,6 @@
    "posRankPpr": null,
    "injuryStatus": "IR"
   },
-  "ameer abdullah|RB": {
-   "playerId": "ameer abdullah|RB",
-   "seasonPtsStd": 3.2,
-   "seasonPtsPpr": 4.2,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.8,
-   "projPtsPpr": 4.8,
-   "projIsFallback": false,
-   "posRankStd": 47,
-   "posRankPpr": 46,
-   "injuryStatus": null
-  },
   "mark redman|TE": {
    "playerId": "mark redman|TE",
    "seasonPtsStd": 0,
@@ -4020,6 +4007,19 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "ameer abdullah|RB": {
+   "playerId": "ameer abdullah|RB",
+   "seasonPtsStd": 3.2,
+   "seasonPtsPpr": 4.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.8,
+   "projPtsPpr": 4.8,
+   "projIsFallback": false,
+   "posRankStd": 47,
+   "posRankPpr": 46,
    "injuryStatus": null
   },
   "david martin robinson|TE": {
@@ -4074,6 +4074,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "dontayvion wicks|WR": {
+   "playerId": "dontayvion wicks|WR",
+   "seasonPtsStd": 13.3,
+   "seasonPtsPpr": 15.3,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 6.65,
+   "projPtsPpr": 7.65,
+   "projIsFallback": true,
+   "posRankStd": 12,
+   "posRankPpr": 21,
+   "injuryStatus": null
+  },
   "jacob saylors|RB": {
    "playerId": "jacob saylors|RB",
    "seasonPtsStd": 0,
@@ -4100,17 +4113,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "dontayvion wicks|WR": {
-   "playerId": "dontayvion wicks|WR",
-   "seasonPtsStd": 13.3,
-   "seasonPtsPpr": 15.3,
+  "zamir white|RB": {
+   "playerId": "zamir white|RB",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 6.65,
-   "projPtsPpr": 7.65,
-   "projIsFallback": true,
-   "posRankStd": 12,
-   "posRankPpr": 21,
+   "projPtsStd": 3.1,
+   "projPtsPpr": 5.1,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
    "injuryStatus": null
   },
   "ian thomas|TE": {
@@ -4126,47 +4139,8 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "zamir white|RB": {
-   "playerId": "zamir white|RB",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 3.1,
-   "projPtsPpr": 5.1,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "treyton welch|TE": {
    "playerId": "treyton welch|TE",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "durham smythe|TE": {
-   "playerId": "durham smythe|TE",
-   "seasonPtsStd": 0.4,
-   "seasonPtsPpr": 1.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 4.9,
-   "projPtsPpr": 9.9,
-   "projIsFallback": false,
-   "posRankStd": 58,
-   "posRankPpr": 59,
-   "injuryStatus": null
-  },
-  "chris blair|WR": {
-   "playerId": "chris blair|WR",
    "seasonPtsStd": 0,
    "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
@@ -4189,6 +4163,32 @@
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "chris blair|WR": {
+   "playerId": "chris blair|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "durham smythe|TE": {
+   "playerId": "durham smythe|TE",
+   "seasonPtsStd": 0.4,
+   "seasonPtsPpr": 1.4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 4.9,
+   "projPtsPpr": 9.9,
+   "projIsFallback": false,
+   "posRankStd": 58,
+   "posRankPpr": 59,
    "injuryStatus": null
   },
   "adam trautman|TE": {
@@ -4243,19 +4243,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "darnell washington|TE": {
-   "playerId": "darnell washington|TE",
-   "seasonPtsStd": 1.8,
-   "seasonPtsPpr": 3.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.9,
-   "projPtsPpr": 1.9,
-   "projIsFallback": true,
-   "posRankStd": 34,
-   "posRankPpr": 34,
-   "injuryStatus": null
-  },
   "jaren kanak|TE": {
    "playerId": "jaren kanak|TE",
    "seasonPtsStd": 0,
@@ -4269,6 +4256,19 @@
    "posRankPpr": null,
    "injuryStatus": "IR"
   },
+  "darnell washington|TE": {
+   "playerId": "darnell washington|TE",
+   "seasonPtsStd": 1.8,
+   "seasonPtsPpr": 3.8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.9,
+   "projPtsPpr": 1.9,
+   "projIsFallback": true,
+   "posRankStd": 34,
+   "posRankPpr": 34,
+   "injuryStatus": null
+  },
   "evan engram|TE": {
    "playerId": "evan engram|TE",
    "seasonPtsStd": 10.3,
@@ -4280,6 +4280,19 @@
    "projIsFallback": true,
    "posRankStd": 8,
    "posRankPpr": 8,
+   "injuryStatus": null
+  },
+  "blake whiteheart|TE": {
+   "playerId": "blake whiteheart|TE",
+   "seasonPtsStd": 1.4,
+   "seasonPtsPpr": 2.4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.4,
+   "projPtsPpr": 4.4,
+   "projIsFallback": false,
+   "posRankStd": 39,
+   "posRankPpr": 45,
    "injuryStatus": null
   },
   "foster moreau|TE": {
@@ -4321,6 +4334,19 @@
    "posRankPpr": 57,
    "injuryStatus": null
   },
+  "samaje perine|RB": {
+   "playerId": "samaje perine|RB",
+   "seasonPtsStd": 5,
+   "seasonPtsPpr": 8,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.5,
+   "projPtsPpr": 4,
+   "projIsFallback": true,
+   "posRankStd": 38,
+   "posRankPpr": 36,
+   "injuryStatus": null
+  },
   "cole kmet|TE": {
    "playerId": "cole kmet|TE",
    "seasonPtsStd": 9.5,
@@ -4360,18 +4386,18 @@
    "posRankPpr": 20,
    "injuryStatus": null
   },
-  "samaje perine|RB": {
-   "playerId": "samaje perine|RB",
-   "seasonPtsStd": 5,
-   "seasonPtsPpr": 8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.5,
-   "projPtsPpr": 4,
-   "projIsFallback": true,
-   "posRankStd": 38,
-   "posRankPpr": 36,
-   "injuryStatus": "Questionable"
+  "joshua palmer|WR": {
+   "playerId": "joshua palmer|WR",
+   "seasonPtsStd": 19.700000000000003,
+   "seasonPtsPpr": 21.700000000000003,
+   "prevWeekPtsStd": 10.3,
+   "prevWeekPtsPpr": 11.3,
+   "projPtsStd": 20.6,
+   "projPtsPpr": 32.6,
+   "projIsFallback": false,
+   "posRankStd": 2,
+   "posRankPpr": 3,
+   "injuryStatus": null
   },
   "kavontae turpin|WR": {
    "playerId": "kavontae turpin|WR",
@@ -4384,32 +4410,6 @@
    "projIsFallback": true,
    "posRankStd": 97,
    "posRankPpr": 97,
-   "injuryStatus": null
-  },
-  "michael mayer|TE": {
-   "playerId": "michael mayer|TE",
-   "seasonPtsStd": 3.2,
-   "seasonPtsPpr": 9.2,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 1.6,
-   "projPtsPpr": 4.6,
-   "projIsFallback": true,
-   "posRankStd": 24,
-   "posRankPpr": 19,
-   "injuryStatus": null
-  },
-  "joshua palmer|WR": {
-   "playerId": "joshua palmer|WR",
-   "seasonPtsStd": 19.700000000000003,
-   "seasonPtsPpr": 21.700000000000003,
-   "prevWeekPtsStd": 10.3,
-   "prevWeekPtsPpr": 11.3,
-   "projPtsStd": 20.6,
-   "projPtsPpr": 32.6,
-   "projIsFallback": false,
-   "posRankStd": 2,
-   "posRankPpr": 3,
    "injuryStatus": null
   },
   "deshaun watson|QB": {
@@ -4425,15 +4425,15 @@
    "posRankPpr": 21,
    "injuryStatus": null
   },
-  "WAS|DST": {
-   "playerId": "WAS|DST",
-   "seasonPtsStd": 3,
-   "seasonPtsPpr": 3,
+  "tai felton|WR": {
+   "playerId": "tai felton|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 1.5,
-   "projPtsPpr": 1.5,
-   "projIsFallback": true,
+   "projPtsStd": 19.2,
+   "projPtsPpr": 29.2,
+   "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
@@ -4451,6 +4451,45 @@
    "posRankPpr": 3,
    "injuryStatus": null
   },
+  "WAS|DST": {
+   "playerId": "WAS|DST",
+   "seasonPtsStd": 3,
+   "seasonPtsPpr": 3,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.5,
+   "projPtsPpr": 1.5,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "michael mayer|TE": {
+   "playerId": "michael mayer|TE",
+   "seasonPtsStd": 3.2,
+   "seasonPtsPpr": 9.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 1.6,
+   "projPtsPpr": 4.6,
+   "projIsFallback": true,
+   "posRankStd": 24,
+   "posRankPpr": 19,
+   "injuryStatus": null
+  },
+  "tyquan thornton|WR": {
+   "playerId": "tyquan thornton|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "noah gray|TE": {
    "playerId": "noah gray|TE",
    "seasonPtsStd": 0.5,
@@ -4464,32 +4503,6 @@
    "posRankPpr": 58,
    "injuryStatus": null
   },
-  "odell beckham|WR": {
-   "playerId": "odell beckham|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 18,
-   "projPtsPpr": 28,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "tai felton|WR": {
-   "playerId": "tai felton|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 19.2,
-   "projPtsPpr": 29.2,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "josh johnson|QB": {
    "playerId": "josh johnson|QB",
    "seasonPtsStd": 0,
@@ -4498,6 +4511,19 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 11.34,
    "projPtsPpr": 11.34,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "odell beckham|WR": {
+   "playerId": "odell beckham|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 18,
+   "projPtsPpr": 28,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -4555,6 +4581,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "kendrick bourne|WR": {
+   "playerId": "kendrick bourne|WR",
+   "seasonPtsStd": 7.5,
+   "seasonPtsPpr": 15.5,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 3.75,
+   "projPtsPpr": 7.75,
+   "projIsFallback": true,
+   "posRankStd": 30,
+   "posRankPpr": 18,
+   "injuryStatus": null
+  },
   "daniel carlson|K": {
    "playerId": "daniel carlson|K",
    "seasonPtsStd": 5,
@@ -4581,30 +4620,17 @@
    "posRankPpr": 27,
    "injuryStatus": null
   },
-  "kendrick bourne|WR": {
-   "playerId": "kendrick bourne|WR",
-   "seasonPtsStd": 7.5,
-   "seasonPtsPpr": 15.5,
+  "darren waller|TE": {
+   "playerId": "darren waller|TE",
+   "seasonPtsStd": 2.8,
+   "seasonPtsPpr": 4.8,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 3.75,
-   "projPtsPpr": 7.75,
+   "projPtsStd": 1.4,
+   "projPtsPpr": 2.4,
    "projIsFallback": true,
-   "posRankStd": 30,
-   "posRankPpr": 18,
-   "injuryStatus": null
-  },
-  "zavion thomas|WR": {
-   "playerId": "zavion thomas|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
-   "projIsFallback": true,
-   "posRankStd": null,
-   "posRankPpr": null,
+   "posRankStd": 25,
+   "posRankPpr": 30,
    "injuryStatus": null
   },
   "tyler higbee|TE": {
@@ -4618,6 +4644,19 @@
    "projIsFallback": false,
    "posRankStd": 63,
    "posRankPpr": 62,
+   "injuryStatus": null
+  },
+  "zavion thomas|WR": {
+   "playerId": "zavion thomas|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
    "injuryStatus": null
   },
   "demarcus robinson|WR": {
@@ -4672,30 +4711,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "tutu atwell|WR": {
-   "playerId": "tutu atwell|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
+  "noah fant|TE": {
+   "playerId": "noah fant|TE",
+   "seasonPtsStd": 9.3,
+   "seasonPtsPpr": 13.3,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 6.7,
-   "projPtsPpr": 10.7,
+   "projPtsStd": 21.6,
+   "projPtsPpr": 36.6,
    "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "joe flacco|QB": {
-   "playerId": "joe flacco|QB",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 28.72,
-   "projPtsPpr": 28.72,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
+   "posRankStd": 11,
+   "posRankPpr": 10,
    "injuryStatus": null
   },
   "josh williams|RB": {
@@ -4709,19 +4735,6 @@
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "noah fant|TE": {
-   "playerId": "noah fant|TE",
-   "seasonPtsStd": 9.3,
-   "seasonPtsPpr": 13.3,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 21.6,
-   "projPtsPpr": 36.6,
-   "projIsFallback": false,
-   "posRankStd": 11,
-   "posRankPpr": 10,
    "injuryStatus": null
   },
   "jonnu smith|TE": {
@@ -4750,6 +4763,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "joe flacco|QB": {
+   "playerId": "joe flacco|QB",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 28.72,
+   "projPtsPpr": 28.72,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "elijah arroyo|TE": {
    "playerId": "elijah arroyo|TE",
    "seasonPtsStd": 0,
@@ -4763,43 +4789,17 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "drew allar|QB": {
-   "playerId": "drew allar|QB",
+  "tutu atwell|WR": {
+   "playerId": "tutu atwell|WR",
    "seasonPtsStd": 0,
    "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 22.02,
-   "projPtsPpr": 22.02,
+   "projPtsStd": 6.7,
+   "projPtsPpr": 10.7,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "bo melton|WR": {
-   "playerId": "bo melton|WR",
-   "seasonPtsStd": 1,
-   "seasonPtsPpr": 2,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 5.8,
-   "projPtsPpr": 9.8,
-   "projIsFallback": false,
-   "posRankStd": 95,
-   "posRankPpr": 95,
-   "injuryStatus": null
-  },
-  "carson wentz|QB": {
-   "playerId": "carson wentz|QB",
-   "seasonPtsStd": 19.22,
-   "seasonPtsPpr": 19.22,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 12.44,
-   "projPtsPpr": 12.44,
-   "projIsFallback": false,
-   "posRankStd": 12,
-   "posRankPpr": 12,
    "injuryStatus": null
   },
   "josh oliver|TE": {
@@ -4815,118 +4815,40 @@
    "posRankPpr": 31,
    "injuryStatus": null
   },
-  "bryce lance|WR": {
-   "playerId": "bryce lance|WR",
-   "seasonPtsStd": 4.2,
-   "seasonPtsPpr": 7.2,
+  "carson wentz|QB": {
+   "playerId": "carson wentz|QB",
+   "seasonPtsStd": 19.22,
+   "seasonPtsPpr": 19.22,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 23.7,
-   "projPtsPpr": 38.7,
+   "projPtsStd": 12.44,
+   "projPtsPpr": 12.44,
    "projIsFallback": false,
-   "posRankStd": 51,
-   "posRankPpr": 55,
+   "posRankStd": 12,
+   "posRankPpr": 12,
    "injuryStatus": null
   },
-  "payne durham|TE": {
-   "playerId": "payne durham|TE",
+  "bo melton|WR": {
+   "playerId": "bo melton|WR",
+   "seasonPtsStd": 1,
+   "seasonPtsPpr": 2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 5.8,
+   "projPtsPpr": 9.8,
+   "projIsFallback": false,
+   "posRankStd": 95,
+   "posRankPpr": 95,
+   "injuryStatus": null
+  },
+  "drew allar|QB": {
+   "playerId": "drew allar|QB",
    "seasonPtsStd": 0,
    "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 4.1,
-   "projPtsPpr": 8.1,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "eli raridon|TE": {
-   "playerId": "eli raridon|TE",
-   "seasonPtsStd": 6.2,
-   "seasonPtsPpr": 7.2,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 19,
-   "projPtsPpr": 33,
-   "projIsFallback": false,
-   "posRankStd": 17,
-   "posRankPpr": 22,
-   "injuryStatus": null
-  },
-  "roman wilson|WR": {
-   "playerId": "roman wilson|WR",
-   "seasonPtsStd": 2.6,
-   "seasonPtsPpr": 5.6,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 17.8,
-   "projPtsPpr": 26.8,
-   "projIsFallback": false,
-   "posRankStd": 74,
-   "posRankPpr": 68,
-   "injuryStatus": null
-  },
-  "andrei iosivas|WR": {
-   "playerId": "andrei iosivas|WR",
-   "seasonPtsStd": 1.2,
-   "seasonPtsPpr": 3.2,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0.6,
-   "projPtsPpr": 1.6,
-   "projIsFallback": true,
-   "posRankStd": 88,
-   "posRankPpr": 86,
-   "injuryStatus": null
-  },
-  "luke mccaffrey|WR": {
-   "playerId": "luke mccaffrey|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 5.3,
-   "projPtsPpr": 9.3,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "jahdae walker|WR": {
-   "playerId": "jahdae walker|WR",
-   "seasonPtsStd": 6.1,
-   "seasonPtsPpr": 7.1,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 16.9,
-   "projPtsPpr": 25.9,
-   "projIsFallback": false,
-   "posRankStd": 35,
-   "posRankPpr": 56,
-   "injuryStatus": null
-  },
-  "brevin jordan|TE": {
-   "playerId": "brevin jordan|TE",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.1,
-   "projPtsPpr": 6.1,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "roschon johnson|RB": {
-   "playerId": "roschon johnson|RB",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 5.6,
-   "projPtsPpr": 7.6,
+   "projPtsStd": 22.02,
+   "projPtsPpr": 22.02,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -4945,6 +4867,71 @@
    "posRankPpr": 71,
    "injuryStatus": null
   },
+  "bryce lance|WR": {
+   "playerId": "bryce lance|WR",
+   "seasonPtsStd": 4.2,
+   "seasonPtsPpr": 7.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 23.7,
+   "projPtsPpr": 38.7,
+   "projIsFallback": false,
+   "posRankStd": 51,
+   "posRankPpr": 55,
+   "injuryStatus": null
+  },
+  "andrei iosivas|WR": {
+   "playerId": "andrei iosivas|WR",
+   "seasonPtsStd": 1.2,
+   "seasonPtsPpr": 3.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0.6,
+   "projPtsPpr": 1.6,
+   "projIsFallback": true,
+   "posRankStd": 88,
+   "posRankPpr": 86,
+   "injuryStatus": null
+  },
+  "payne durham|TE": {
+   "playerId": "payne durham|TE",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 4.1,
+   "projPtsPpr": 8.1,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "roschon johnson|RB": {
+   "playerId": "roschon johnson|RB",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 5.6,
+   "projPtsPpr": 7.6,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "jahdae walker|WR": {
+   "playerId": "jahdae walker|WR",
+   "seasonPtsStd": 6.1,
+   "seasonPtsPpr": 7.1,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 16.9,
+   "projPtsPpr": 25.9,
+   "projIsFallback": false,
+   "posRankStd": 35,
+   "posRankPpr": 56,
+   "injuryStatus": null
+  },
   "will shipley|RB": {
    "playerId": "will shipley|RB",
    "seasonPtsStd": 1.2,
@@ -4956,6 +4943,32 @@
    "projIsFallback": false,
    "posRankStd": 63,
    "posRankPpr": 63,
+   "injuryStatus": null
+  },
+  "roman wilson|WR": {
+   "playerId": "roman wilson|WR",
+   "seasonPtsStd": 2.6,
+   "seasonPtsPpr": 5.6,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 17.8,
+   "projPtsPpr": 26.8,
+   "projIsFallback": false,
+   "posRankStd": 74,
+   "posRankPpr": 68,
+   "injuryStatus": null
+  },
+  "eli raridon|TE": {
+   "playerId": "eli raridon|TE",
+   "seasonPtsStd": 6.2,
+   "seasonPtsPpr": 7.2,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 19,
+   "projPtsPpr": 33,
+   "projIsFallback": false,
+   "posRankStd": 17,
+   "posRankPpr": 22,
    "injuryStatus": null
   },
   "jatavion sanders|TE": {
@@ -4971,27 +4984,27 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "ronnie rivers|RB": {
-   "playerId": "ronnie rivers|RB",
-   "seasonPtsStd": 2.4,
-   "seasonPtsPpr": 3.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 4.1,
-   "projPtsPpr": 7.1,
-   "projIsFallback": false,
-   "posRankStd": 55,
-   "posRankPpr": 54,
-   "injuryStatus": null
-  },
-  "colbie young|WR": {
-   "playerId": "colbie young|WR",
+  "luke mccaffrey|WR": {
+   "playerId": "luke mccaffrey|WR",
    "seasonPtsStd": 0,
    "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 20,
-   "projPtsPpr": 31,
+   "projPtsStd": 5.3,
+   "projPtsPpr": 9.3,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "brevin jordan|TE": {
+   "playerId": "brevin jordan|TE",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.1,
+   "projPtsPpr": 6.1,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -5010,14 +5023,14 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "jalen royals|WR": {
-   "playerId": "jalen royals|WR",
+  "colbie young|WR": {
+   "playerId": "colbie young|WR",
    "seasonPtsStd": 0,
    "seasonPtsPpr": 0,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 20.9,
-   "projPtsPpr": 33.9,
+   "projPtsStd": 20,
+   "projPtsPpr": 31,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -5031,19 +5044,6 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 3.6,
    "projPtsPpr": 6.6,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "devontez walker|WR": {
-   "playerId": "devontez walker|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 19.9,
-   "projPtsPpr": 29.9,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -5075,6 +5075,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "devontez walker|WR": {
+   "playerId": "devontez walker|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 19.9,
+   "projPtsPpr": 29.9,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "david moore|WR": {
    "playerId": "david moore|WR",
    "seasonPtsStd": 0,
@@ -5101,19 +5114,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "jordan whittington|WR": {
-   "playerId": "jordan whittington|WR",
-   "seasonPtsStd": 0.8,
-   "seasonPtsPpr": 1.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 15.3,
-   "projPtsPpr": 23.3,
-   "projIsFallback": false,
-   "posRankStd": 96,
-   "posRankPpr": 96,
-   "injuryStatus": null
-  },
   "drew sample|TE": {
    "playerId": "drew sample|TE",
    "seasonPtsStd": 1.9,
@@ -5127,18 +5127,18 @@
    "posRankPpr": 29,
    "injuryStatus": null
   },
-  "isaiah williams|WR": {
-   "playerId": "isaiah williams|WR",
-   "seasonPtsStd": 0.7,
-   "seasonPtsPpr": 1.7,
+  "jordan whittington|WR": {
+   "playerId": "jordan whittington|WR",
+   "seasonPtsStd": 0.8,
+   "seasonPtsPpr": 1.8,
    "prevWeekPtsStd": null,
    "prevWeekPtsPpr": null,
-   "projPtsStd": 19.3,
-   "projPtsPpr": 31.3,
+   "projPtsStd": 15.3,
+   "projPtsPpr": 23.3,
    "projIsFallback": false,
-   "posRankStd": 98,
-   "posRankPpr": 98,
-   "injuryStatus": null
+   "posRankStd": 96,
+   "posRankPpr": 96,
+   "injuryStatus": "Questionable"
   },
   "darius cooper|WR": {
    "playerId": "darius cooper|WR",
@@ -5151,6 +5151,19 @@
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "isaiah williams|WR": {
+   "playerId": "isaiah williams|WR",
+   "seasonPtsStd": 0.7,
+   "seasonPtsPpr": 1.7,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 19.3,
+   "projPtsPpr": 31.3,
+   "projIsFallback": false,
+   "posRankStd": 98,
+   "posRankPpr": 98,
    "injuryStatus": null
   },
   "luke schoonmaker|TE": {
@@ -5229,6 +5242,19 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "frank gore|RB": {
+   "playerId": "frank gore|RB",
+   "seasonPtsStd": 0.3,
+   "seasonPtsPpr": 0.3,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 3.3,
+   "projPtsPpr": 4.3,
+   "projIsFallback": false,
+   "posRankStd": 72,
+   "posRankPpr": 75,
    "injuryStatus": null
   },
   "dean connors|RB": {
@@ -5426,19 +5452,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "blake whiteheart|TE": {
-   "playerId": "blake whiteheart|TE",
-   "seasonPtsStd": 1.4,
-   "seasonPtsPpr": 2.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.4,
-   "projPtsPpr": 4.4,
-   "projIsFallback": false,
-   "posRankStd": 39,
-   "posRankPpr": 45,
-   "injuryStatus": null
-  },
   "jack stoll|TE": {
    "playerId": "jack stoll|TE",
    "seasonPtsStd": 0,
@@ -5465,6 +5478,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "josh whyle|TE": {
+   "playerId": "josh whyle|TE",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 6.8,
+   "projPtsPpr": 13.8,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "chris manhertz|TE": {
    "playerId": "chris manhertz|TE",
    "seasonPtsStd": 0,
@@ -5474,19 +5500,6 @@
    "projPtsStd": 1.3,
    "projPtsPpr": 2.3,
    "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "tyquan thornton|WR": {
-   "playerId": "tyquan thornton|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
-   "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
@@ -5595,19 +5608,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "mack hollins|WR": {
-   "playerId": "mack hollins|WR",
-   "seasonPtsStd": 5.1,
-   "seasonPtsPpr": 9.1,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.55,
-   "projPtsPpr": 4.55,
-   "projIsFallback": true,
-   "posRankStd": 46,
-   "posRankPpr": 39,
-   "injuryStatus": null
-  },
   "seth mcgowan|RB": {
    "playerId": "seth mcgowan|RB",
    "seasonPtsStd": 0,
@@ -5621,6 +5621,19 @@
    "posRankPpr": 68,
    "injuryStatus": null
   },
+  "mack hollins|WR": {
+   "playerId": "mack hollins|WR",
+   "seasonPtsStd": 5.1,
+   "seasonPtsPpr": 9.1,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.55,
+   "projPtsPpr": 4.55,
+   "projIsFallback": true,
+   "posRankStd": 46,
+   "posRankPpr": 39,
+   "injuryStatus": null
+  },
   "treylon burks|WR": {
    "playerId": "treylon burks|WR",
    "seasonPtsStd": 0,
@@ -5629,6 +5642,19 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 22.8,
    "projPtsPpr": 34.8,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "tyler huntley|QB": {
+   "playerId": "tyler huntley|QB",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 12.68,
+   "projPtsPpr": 12.68,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -5645,19 +5671,6 @@
    "projIsFallback": true,
    "posRankStd": 99,
    "posRankPpr": 99,
-   "injuryStatus": null
-  },
-  "darren waller|TE": {
-   "playerId": "darren waller|TE",
-   "seasonPtsStd": 2.8,
-   "seasonPtsPpr": 4.8,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 1.4,
-   "projPtsPpr": 2.4,
-   "projIsFallback": true,
-   "posRankStd": 25,
-   "posRankPpr": 30,
    "injuryStatus": null
   },
   "anthony richardson|QB": {
@@ -5686,19 +5699,6 @@
    "posRankPpr": 56,
    "injuryStatus": null
   },
-  "tyler huntley|QB": {
-   "playerId": "tyler huntley|QB",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 12.68,
-   "projPtsPpr": 12.68,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "john metchie|WR": {
    "playerId": "john metchie|WR",
    "seasonPtsStd": 0,
@@ -5723,7 +5723,7 @@
    "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": "Questionable"
+   "injuryStatus": null
   },
   "ollie gordon|RB": {
    "playerId": "ollie gordon|RB",
@@ -5816,6 +5816,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "oscar delp|TE": {
+   "playerId": "oscar delp|TE",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 22.4,
+   "projPtsPpr": 39.4,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "tyler badie|RB": {
    "playerId": "tyler badie|RB",
    "seasonPtsStd": 0,
@@ -5837,19 +5850,6 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 24,
    "projPtsPpr": 30,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": "Questionable"
-  },
-  "oscar delp|TE": {
-   "playerId": "oscar delp|TE",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 22.4,
-   "projPtsPpr": 39.4,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -5893,6 +5893,19 @@
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": "IR"
+  },
+  "ronnie rivers|RB": {
+   "playerId": "ronnie rivers|RB",
+   "seasonPtsStd": 2.4,
+   "seasonPtsPpr": 3.4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 4.1,
+   "projPtsPpr": 7.1,
+   "projIsFallback": false,
+   "posRankStd": 55,
+   "posRankPpr": 54,
+   "injuryStatus": null
   },
   "dyami brown|WR": {
    "playerId": "dyami brown|WR",
@@ -5957,7 +5970,7 @@
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": "Questionable"
+   "injuryStatus": "Out"
   },
   "nick westbrook ikhine|WR": {
    "playerId": "nick westbrook ikhine|WR",
@@ -6037,19 +6050,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "marcus mariota|QB": {
-   "playerId": "marcus mariota|QB",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 13.12,
-   "projPtsPpr": 13.12,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "reggie gilliam|RB": {
    "playerId": "reggie gilliam|RB",
    "seasonPtsStd": 0,
@@ -6074,6 +6074,19 @@
    "projIsFallback": true,
    "posRankStd": 103,
    "posRankPpr": 107,
+   "injuryStatus": null
+  },
+  "marcus mariota|QB": {
+   "playerId": "marcus mariota|QB",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 13.12,
+   "projPtsPpr": 13.12,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
    "injuryStatus": null
   },
   "tez johnson|WR": {
@@ -6102,19 +6115,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "brevyn spann ford|TE": {
-   "playerId": "brevyn spann ford|TE",
-   "seasonPtsStd": 1.4,
-   "seasonPtsPpr": 3.4,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 17.4,
-   "projPtsPpr": 29.4,
-   "projIsFallback": false,
-   "posRankStd": 40,
-   "posRankPpr": 38,
-   "injuryStatus": null
-  },
   "jeremy mcnichols|RB": {
    "playerId": "jeremy mcnichols|RB",
    "seasonPtsStd": 0,
@@ -6141,6 +6141,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "jalen royals|WR": {
+   "playerId": "jalen royals|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 20.9,
+   "projPtsPpr": 33.9,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "lajohntay wester|WR": {
    "playerId": "lajohntay wester|WR",
    "seasonPtsStd": 1.5,
@@ -6152,6 +6165,19 @@
    "projIsFallback": false,
    "posRankStd": 86,
    "posRankPpr": 83,
+   "injuryStatus": null
+  },
+  "brevyn spann ford|TE": {
+   "playerId": "brevyn spann ford|TE",
+   "seasonPtsStd": 1.4,
+   "seasonPtsPpr": 3.4,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 17.4,
+   "projPtsPpr": 29.4,
+   "projIsFallback": false,
+   "posRankStd": 40,
+   "posRankPpr": 38,
    "injuryStatus": null
   },
   "cade klubnik|QB": {
@@ -6204,7 +6230,7 @@
    "projIsFallback": false,
    "posRankStd": 102,
    "posRankPpr": 101,
-   "injuryStatus": "Questionable"
+   "injuryStatus": null
   },
   "jmari taylor|RB": {
    "playerId": "jmari taylor|RB",
@@ -6271,19 +6297,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "donte thornton|WR": {
-   "playerId": "donte thornton|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 2.7,
-   "projPtsPpr": 4.7,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": "IR"
-  },
   "davis mills|QB": {
    "playerId": "davis mills|QB",
    "seasonPtsStd": 0,
@@ -6296,6 +6309,19 @@
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
+  },
+  "donte thornton|WR": {
+   "playerId": "donte thornton|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 2.7,
+   "projPtsPpr": 4.7,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": "IR"
   },
   "greg dortch|WR": {
    "playerId": "greg dortch|WR",
@@ -6362,6 +6388,19 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
+  "ryan miller|WR": {
+   "playerId": "ryan miller|WR",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 0,
+   "projPtsPpr": 0,
+   "projIsFallback": true,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
   "marlin klein|TE": {
    "playerId": "marlin klein|TE",
    "seasonPtsStd": 1.6,
@@ -6384,19 +6423,6 @@
    "projPtsStd": 4.7,
    "projPtsPpr": 6.7,
    "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "ryan miller|WR": {
-   "playerId": "ryan miller|WR",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 0,
-   "projPtsPpr": 0,
-   "projIsFallback": true,
    "posRankStd": null,
    "posRankPpr": null,
    "injuryStatus": null
@@ -6583,19 +6609,6 @@
    "posRankPpr": null,
    "injuryStatus": null
   },
-  "tanner koziol|TE": {
-   "playerId": "tanner koziol|TE",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 18.8,
-   "projPtsPpr": 32.8,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
   "kaden wetjen|WR": {
    "playerId": "kaden wetjen|WR",
    "seasonPtsStd": 0,
@@ -6604,6 +6617,19 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 2.2,
    "projPtsPpr": 4.2,
+   "projIsFallback": false,
+   "posRankStd": null,
+   "posRankPpr": null,
+   "injuryStatus": null
+  },
+  "tanner koziol|TE": {
+   "playerId": "tanner koziol|TE",
+   "seasonPtsStd": 0,
+   "seasonPtsPpr": 0,
+   "prevWeekPtsStd": null,
+   "prevWeekPtsPpr": null,
+   "projPtsStd": 18.8,
+   "projPtsPpr": 32.8,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
@@ -6698,19 +6724,6 @@
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "frank gore|RB": {
-   "playerId": "frank gore|RB",
-   "seasonPtsStd": 0.3,
-   "seasonPtsPpr": 0.3,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 3.3,
-   "projPtsPpr": 4.3,
-   "projIsFallback": false,
-   "posRankStd": 72,
-   "posRankPpr": 75,
    "injuryStatus": null
   },
   "jalen milroe|QB": {
@@ -6945,7 +6958,7 @@
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
-   "injuryStatus": "Questionable"
+   "injuryStatus": null
   },
   "julian hill|TE": {
    "playerId": "julian hill|TE",
@@ -7228,19 +7241,6 @@
    "prevWeekPtsPpr": null,
    "projPtsStd": 18.4,
    "projPtsPpr": 29.4,
-   "projIsFallback": false,
-   "posRankStd": null,
-   "posRankPpr": null,
-   "injuryStatus": null
-  },
-  "josh whyle|TE": {
-   "playerId": "josh whyle|TE",
-   "seasonPtsStd": 0,
-   "seasonPtsPpr": 0,
-   "prevWeekPtsStd": null,
-   "prevWeekPtsPpr": null,
-   "projPtsStd": 6.8,
-   "projPtsPpr": 13.8,
    "projIsFallback": false,
    "posRankStd": null,
    "posRankPpr": null,
