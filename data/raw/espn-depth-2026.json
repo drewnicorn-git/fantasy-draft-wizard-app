@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-09-19T14:54:15.111Z",
+ "fetchedAt": "2026-09-20T14:58:17.593Z",
  "data": {
   "players": [
    {
@@ -690,6 +690,12 @@
     "depth": 3
    },
    {
+    "name": "Josh Johnson",
+    "team": "CIN",
+    "pos": "QB",
+    "depth": 3
+   },
+   {
     "name": "Dohnte Meyers",
     "team": "CIN",
     "pos": "WR",
@@ -1243,6 +1249,12 @@
     "depth": 1
    },
    {
+    "name": "Lewis Bond",
+    "team": "HOU",
+    "pos": "WR",
+    "depth": 8
+   },
+   {
     "name": "Kayshon Boutte",
     "team": "HOU",
     "pos": "WR",
@@ -1359,7 +1371,7 @@
     "name": "Deion Burks",
     "team": "IND",
     "pos": "WR",
-    "depth": 7
+    "depth": 8
    },
    {
     "name": "Josh Downs",
@@ -1378,6 +1390,12 @@
     "team": "IND",
     "pos": "RB",
     "depth": 3
+   },
+   {
+    "name": "Anthony Gould",
+    "team": "IND",
+    "pos": "WR",
+    "depth": 5
    },
    {
     "name": "Daniel Jones",
@@ -1472,7 +1490,7 @@
     "name": "Quinn Ewers",
     "team": "JAC",
     "pos": "QB",
-    "depth": 2
+    "depth": 3
    },
    {
     "name": "Travis Hunter",
@@ -1507,7 +1525,8 @@
    {
     "name": "Nick Mullens",
     "team": "JAC",
-    "pos": "QB"
+    "pos": "QB",
+    "depth": 2
    },
    {
     "name": "Chris Rodriguez Jr.",
@@ -1712,7 +1731,8 @@
    {
     "name": "Chris Myarick",
     "team": "LV",
-    "pos": "TE"
+    "pos": "TE",
+    "depth": 4
    },
    {
     "name": "Jalen Nailor",
@@ -1747,7 +1767,8 @@
    {
     "name": "Cody White",
     "team": "LV",
-    "pos": "WR"
+    "pos": "WR",
+    "depth": 8
    },
    {
     "name": "Dareke Young",
@@ -2110,6 +2131,12 @@
     "depth": 3
    },
    {
+    "name": "Dillon Bell",
+    "team": "MIN",
+    "pos": "WR",
+    "depth": 7
+   },
+   {
     "name": "Max Bredeson",
     "team": "MIN",
     "pos": "RB"
@@ -2154,7 +2181,7 @@
     "name": "Jeshaun Jones",
     "team": "MIN",
     "pos": "WR",
-    "depth": 6
+    "depth": 5
    },
    {
     "name": "Aaron Jones Sr.",
@@ -2184,7 +2211,7 @@
     "name": "Myles Price",
     "team": "MIN",
     "pos": "WR",
-    "depth": 5
+    "depth": 6
    },
    {
     "name": "Carson Wentz",
@@ -2322,7 +2349,8 @@
    {
     "name": "Kevin Austin Jr.",
     "team": "NO",
-    "pos": "WR"
+    "pos": "WR",
+    "depth": 6
    },
    {
     "name": "Barion Brown",
@@ -2547,12 +2575,6 @@
     "pos": "RB"
    },
    {
-    "name": "Omar Cooper Jr.",
-    "team": "NYJ",
-    "pos": "WR",
-    "depth": 3
-   },
-   {
     "name": "Isaiah Davis",
     "team": "NYJ",
     "pos": "RB",
@@ -2598,7 +2620,7 @@
     "name": "Arian Smith",
     "team": "NYJ",
     "pos": "WR",
-    "depth": 5
+    "depth": 4
    },
    {
     "name": "Geno Smith",
@@ -2616,7 +2638,7 @@
     "name": "Isaiah Williams",
     "team": "NYJ",
     "pos": "WR",
-    "depth": 4
+    "depth": 3
    },
    {
     "name": "Garrett Wilson",
@@ -2790,6 +2812,12 @@
     "depth": 3
    },
    {
+    "name": "Travis Homer",
+    "team": "PIT",
+    "pos": "RB",
+    "depth": 4
+   },
+   {
     "name": "Will Howard",
     "team": "PIT",
     "pos": "QB",
@@ -2959,12 +2987,6 @@
     "team": "SF",
     "pos": "WR",
     "depth": 2
-   },
-   {
-    "name": "De'Zhaun Stribling",
-    "team": "SF",
-    "pos": "WR",
-    "depth": 8
    },
    {
     "name": "Jordan Watkins",
