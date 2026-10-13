@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-10-12T20:28:43.751Z",
+ "fetchedAt": "2026-10-13T18:34:03.750Z",
  "data": {
   "players": [
    {
@@ -888,7 +888,7 @@
     "name": "DJ Moore",
     "pos": "WR",
     "team": "BUF",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 8
    },
    {
@@ -1064,7 +1064,7 @@
     "name": "Tanner Hudson",
     "pos": "TE",
     "team": "CIN",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 8
    },
    {
@@ -1144,7 +1144,7 @@
     "name": "Drew Lock",
     "pos": "QB",
     "team": "SEA",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 7
    },
    {
@@ -1736,14 +1736,6 @@
     "name": "James Proche",
     "pos": "WR",
     "team": "CLE",
-    "injuryStatus": null,
-    "yearsExp": 6
-   },
-   {
-    "id": "6960",
-    "name": "Tyler Johnson",
-    "pos": "WR",
-    "team": "NYJ",
     "injuryStatus": null,
     "yearsExp": 6
    },
@@ -2712,7 +2704,7 @@
     "name": "Tyquan Thornton",
     "pos": "WR",
     "team": "KC",
-    "injuryStatus": "IR",
+    "injuryStatus": "Out",
     "yearsExp": 4
    },
    {
@@ -3160,7 +3152,7 @@
     "name": "Jaxon Smith-Njigba",
     "pos": "WR",
     "team": "SEA",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 3
    },
    {
@@ -3168,7 +3160,7 @@
     "name": "Tyler Scott",
     "pos": "WR",
     "team": "LV",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 3
    },
    {
@@ -3580,18 +3572,10 @@
     "yearsExp": 3
    },
    {
-    "id": "11056",
-    "name": "Jared Wayne",
-    "pos": "WR",
-    "team": "HOU",
-    "injuryStatus": null,
-    "yearsExp": 3
-   },
-   {
     "id": "11058",
     "name": "Blake Grupe",
     "pos": "K",
-    "team": "NYJ",
+    "team": "LAR",
     "injuryStatus": null,
     "yearsExp": 3
    },
@@ -3632,6 +3616,14 @@
     "name": "Carlos Washington",
     "pos": "RB",
     "team": "MIA",
+    "injuryStatus": null,
+    "yearsExp": 3
+   },
+   {
+    "id": "11199",
+    "name": "Emari Demercado",
+    "pos": "RB",
+    "team": "DAL",
     "injuryStatus": null,
     "yearsExp": 3
    },
@@ -3924,14 +3916,6 @@
     "yearsExp": 2
    },
    {
-    "id": "11569",
-    "name": "Jarquez Hunter",
-    "pos": "RB",
-    "team": "MIA",
-    "injuryStatus": null,
-    "yearsExp": 1
-   },
-   {
     "id": "11570",
     "name": "Rasheen Ali",
     "pos": "RB",
@@ -3991,7 +3975,7 @@
     "id": "11579",
     "name": "Audric Estime",
     "pos": "RB",
-    "team": "MIN",
+    "team": "CLE",
     "injuryStatus": null,
     "yearsExp": 2
    },
@@ -4248,6 +4232,14 @@
     "name": "Malik Nabers",
     "pos": "WR",
     "team": "NYG",
+    "injuryStatus": null,
+    "yearsExp": 2
+   },
+   {
+    "id": "11633",
+    "name": "Jamari Thrash",
+    "pos": "WR",
+    "team": "LV",
     "injuryStatus": null,
     "yearsExp": 2
    },
@@ -4700,6 +4692,14 @@
     "yearsExp": 1
    },
    {
+    "id": "12476",
+    "name": "Devin Neal",
+    "pos": "RB",
+    "team": "WAS",
+    "injuryStatus": null,
+    "yearsExp": 1
+   },
+   {
     "id": "12477",
     "name": "Kurtis Rourke",
     "pos": "QB",
@@ -5108,6 +5108,14 @@
     "yearsExp": 1
    },
    {
+    "id": "12538",
+    "name": "Brady Cook",
+    "pos": "QB",
+    "team": "MIA",
+    "injuryStatus": null,
+    "yearsExp": 1
+   },
+   {
     "id": "12539",
     "name": "Arian Smith",
     "pos": "WR",
@@ -5492,6 +5500,14 @@
     "yearsExp": 1
    },
    {
+    "id": "12925",
+    "name": "Jamaal Pritchett",
+    "pos": "WR",
+    "team": "NYJ",
+    "injuryStatus": null,
+    "yearsExp": 1
+   },
+   {
     "id": "12928",
     "name": "Amar Johnson",
     "pos": "RB",
@@ -5760,7 +5776,7 @@
     "name": "CJ Daniels",
     "pos": "WR",
     "team": "LAR",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 0
    },
    {
@@ -5792,7 +5808,7 @@
     "name": "Ty Simpson",
     "pos": "QB",
     "team": "LAR",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 0
    },
    {
@@ -5816,7 +5832,7 @@
     "name": "Max Klare",
     "pos": "TE",
     "team": "LAR",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 0
    },
    {
