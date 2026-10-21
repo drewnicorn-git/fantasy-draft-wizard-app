@@ -1,13 +1,13 @@
 {
  "season": 2026,
- "fetchedAt": "2026-10-20T15:54:01.058Z",
+ "fetchedAt": "2026-10-21T16:10:53.445Z",
  "data": {
   "players": [
    {
     "name": "Jeremiyah Love",
     "team": "",
     "pos": "RB",
-    "status": "Out",
+    "status": "Questionable",
     "summary": "Head coach Mike LaFleur said Monday that Love (ankle) is expected to do some running Tuesday, Tyler Drake of ArizonaSports.com reports.",
     "updatedAt": "2026-10-19T23:21Z"
    },
@@ -20,6 +20,22 @@
     "updatedAt": "2026-10-13T19:00Z"
    },
    {
+    "name": "Matt Hibner",
+    "team": "",
+    "pos": "TE",
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
+   },
+   {
+    "name": "Lamar Jackson",
+    "team": "",
+    "pos": "QB",
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
+   },
+   {
     "name": "Rashod Bateman",
     "team": "",
     "pos": "WR",
@@ -28,36 +44,20 @@
     "updatedAt": "2026-10-19T19:16Z"
    },
    {
-    "name": "Lamar Jackson",
-    "team": "",
-    "pos": "QB",
-    "status": "Out",
-    "summary": "Ravens head coach Jesse Minter said Monday that Jackson (ankle) could \"potentially\" practice in Week 7 and is still being considered day-to-day, Ryan Mink of the team's official site reports.",
-    "updatedAt": "2026-10-19T19:08Z"
-   },
-   {
-    "name": "Matt Hibner",
-    "team": "",
-    "pos": "TE",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:22Z"
-   },
-   {
     "name": "DJ Moore",
     "team": "",
     "pos": "WR",
-    "status": "Out",
-    "summary": "Moore (shoulder) is listed as inactive Sunday in Las Vegas.",
-    "updatedAt": "2026-10-18T18:57Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "AJ Dillon",
     "team": "",
     "pos": "RB",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:27Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Jonathon Brooks",
@@ -71,9 +71,9 @@
     "name": "Kyle Monangai",
     "team": "",
     "pos": "RB",
-    "status": "Out",
-    "summary": "Monangai (thumb/toe) was listed as a non-participant on Monday's estimated injury report.",
-    "updatedAt": "2026-10-20T00:05Z"
+    "status": "Questionable",
+    "summary": "Monangai (thumb/toe) was listed as a non-participant in Tuesday's walk-through.",
+    "updatedAt": "2026-10-20T21:20Z"
    },
    {
     "name": "Tanner Hudson",
@@ -95,9 +95,9 @@
     "name": "Quinshon Judkins",
     "team": "",
     "pos": "RB",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:30Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Dylan Sampson",
@@ -148,6 +148,14 @@
     "updatedAt": "2026-10-17T21:54Z"
    },
    {
+    "name": "David Montgomery",
+    "team": "",
+    "pos": "RB",
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
+   },
+   {
     "name": "Tank Dell",
     "team": "",
     "pos": "WR",
@@ -156,12 +164,20 @@
     "updatedAt": "2026-10-19T19:45Z"
    },
    {
-    "name": "David Montgomery",
+    "name": "Tyler Warren",
     "team": "",
-    "pos": "RB",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:40Z"
+    "pos": "TE",
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
+   },
+   {
+    "name": "Ashton Dulin",
+    "team": "",
+    "pos": "WR",
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Alec Pierce",
@@ -170,22 +186,6 @@
     "status": "Injured Reserve",
     "summary": "Colts head coach Shane Steichen said Monday that Pierce (heel) won't have his 21-day practice window opened in Week 7, Nathan Brown of The Indianapolis Star reports.",
     "updatedAt": "2026-10-19T18:32Z"
-   },
-   {
-    "name": "Tyler Warren",
-    "team": "",
-    "pos": "TE",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:41Z"
-   },
-   {
-    "name": "Ashton Dulin",
-    "team": "",
-    "pos": "WR",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:41Z"
    },
    {
     "name": "Anthony Gould",
@@ -199,9 +199,9 @@
     "name": "Rashee Rice",
     "team": "",
     "pos": "WR",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:45Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Tyquan Thornton",
@@ -231,9 +231,9 @@
     "name": "Tre' Harris",
     "team": "",
     "pos": "WR",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T16:50Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Ladd McConkey",
@@ -244,12 +244,20 @@
     "updatedAt": "2026-10-18T21:14Z"
    },
    {
+    "name": "Terrance Ferguson",
+    "team": "",
+    "pos": "TE",
+    "status": "Injured Reserve",
+    "summary": "Ferguson (ankle), who is eligible to come off injured reserve next week, isn't expected to be ready at that time, Adam Schefter of ESPN reports.",
+    "updatedAt": "2026-10-20T22:14Z"
+   },
+   {
     "name": "Davante Adams",
     "team": "",
     "pos": "WR",
-    "status": "Out",
-    "summary": "Adams sustained a ruptured left hamstring in Sunday's 18-16 loss to the Cardinals and is slated to undergo a procedure that he hopes will allow him to return \"a little after\" the Rams' Week 11 bye, Ian Rapoport of NFL Network reports.",
-    "updatedAt": "2026-10-19T21:31Z"
+    "status": "Injured Reserve",
+    "summary": "Adams (hamstring) was placed on injured reserve Tuesday, Ian Rapoport of NFL Network reports.",
+    "updatedAt": "2026-10-20T21:36Z"
    },
    {
     "name": "Caleb Douglas",
@@ -304,8 +312,8 @@
     "team": "",
     "pos": "WR",
     "status": "Questionable",
-    "summary": "Brown (ankle) was listed as limited on Monday's estimated practice report.",
-    "updatedAt": "2026-10-20T00:12Z"
+    "summary": "Brown (ankle) was listed as a limited participant on Tuesday's practice report.",
+    "updatedAt": "2026-10-20T22:01Z"
    },
    {
     "name": "Romeo Doubs",
@@ -320,16 +328,16 @@
     "team": "",
     "pos": "WR",
     "status": "Injured Reserve",
-    "summary": "Saints head coach Kellen Moore said that Tyson (hamstring) traveled to Paris in advance of Sunday's game against the Steelers, NewOrleans.football reports.",
-    "updatedAt": "2026-10-19T13:19Z"
+    "summary": "Saints general manager Mickey Loomis said Tuesday that Tyson (hamstring) is \"getting closer\" but won't practice this week, Ross Jackson of WWL Louisiana reports.",
+    "updatedAt": "2026-10-21T13:31Z"
    },
    {
     "name": "Theo Johnson",
     "team": "",
     "pos": "TE",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T17:10Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Darnell Mooney",
@@ -351,25 +359,25 @@
     "name": "Adonai Mitchell",
     "team": "",
     "pos": "WR",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T17:12Z"
+    "status": "Doubtful",
+    "summary": "doubtful",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Breece Hall",
     "team": "",
     "pos": "RB",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T17:12Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Saquon Barkley",
     "team": "",
     "pos": "RB",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T17:14Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Jalen Hurts",
@@ -378,14 +386,6 @@
     "status": "Injured Reserve",
     "summary": "Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports.",
     "updatedAt": "2026-10-19T14:18Z"
-   },
-   {
-    "name": "Carson Steele",
-    "team": "",
-    "pos": "RB",
-    "status": "Questionable",
-    "summary": "Steele is questionable to return to Sunday's game against the Panthers due to a right shoulder injury.",
-    "updatedAt": "2026-10-18T17:43Z"
    },
    {
     "name": "Eli Stowers",
@@ -407,9 +407,9 @@
     "name": "Ben Skowronek",
     "team": "",
     "pos": "WR",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T17:15Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Roman Wilson",
@@ -420,12 +420,12 @@
     "updatedAt": "2026-10-17T19:27Z"
    },
    {
-    "name": "Michael Pittman Jr.",
+    "name": "Deebo Samuel Sr.",
     "team": "",
     "pos": "WR",
-    "status": "Injured Reserve",
-    "summary": "The Steelers placed Pittman (foot) on injured reserve Saturday.",
-    "updatedAt": "2026-10-10T19:52Z"
+    "status": "Out",
+    "summary": "out",
+    "updatedAt": "2026-10-20T16:04Z"
    },
    {
     "name": "Mike Evans",
@@ -434,22 +434,6 @@
     "status": "Questionable",
     "summary": "Head coach Kyle Shanahan said after Monday's 23-17 win over the Commanders that Evans' early exit was due to right Achilles tendinitis, but he doesn't believe the wideout will require further testing or imaging, Nick Wagoner of ESPN.com reports. \"I hope he recovers throughout the week, but you don't think it's a long-term thing, but right now it ended up costing him two quarters and hopefully he'll be able to play [Sunday in Atlanta],\" Shanahan said.",
     "updatedAt": "2026-10-20T14:09Z"
-   },
-   {
-    "name": "Kurtis Rourke",
-    "team": "",
-    "pos": "QB",
-    "status": "Out",
-    "summary": "inactive",
-    "updatedAt": "2026-10-19T22:56Z"
-   },
-   {
-    "name": "Deebo Samuel Sr.",
-    "team": "",
-    "pos": "WR",
-    "status": "Out",
-    "summary": "inactive",
-    "updatedAt": "2026-10-19T22:56Z"
    },
    {
     "name": "Christian Kirk",
@@ -487,17 +471,17 @@
     "name": "Sean Tucker",
     "team": "",
     "pos": "RB",
-    "status": "Out",
-    "summary": "out",
-    "updatedAt": "2026-10-19T17:18Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "Baker Mayfield",
     "team": "",
     "pos": "QB",
-    "status": "Out",
-    "summary": "Buccaneers head coach Todd Bowles said that Mayfield (thumb) is \"supposed to practice\" Wednesday, Brianna Dix of the team's official site reports.",
-    "updatedAt": "2026-10-19T16:41Z"
+    "status": "Questionable",
+    "summary": "questionable",
+    "updatedAt": "2026-10-20T16:10Z"
    },
    {
     "name": "David Sills V",
@@ -511,25 +495,17 @@
     "name": "Terry McLaurin",
     "team": "",
     "pos": "WR",
-    "status": "Doubtful",
-    "summary": "McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports.",
-    "updatedAt": "2026-10-20T14:32Z"
+    "status": "Out",
+    "summary": "Commanders head coach Dan Quinn announced Monday that McLaurin has been diagnosed with a torn patellar tendon in his left knee following an MRI and will miss the rest of the season.",
+    "updatedAt": "2026-10-20T19:18Z"
    },
    {
     "name": "Marcus Mariota",
     "team": "",
     "pos": "QB",
-    "status": "Out",
-    "summary": "inactive",
-    "updatedAt": "2026-10-19T22:52Z"
-   },
-   {
-    "name": "Jacory Croskey-Merritt",
-    "team": "",
-    "pos": "RB",
-    "status": "Injured Reserve",
-    "summary": "The Commanders placed Croskey-Merritt (groin) on injured reserve Monday.",
-    "updatedAt": "2026-10-19T20:28Z"
+    "status": "Doubtful",
+    "summary": "doubtful",
+    "updatedAt": "2026-10-20T16:10Z"
    }
   ]
  }
