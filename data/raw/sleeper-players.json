@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-10-24T14:56:39.914Z",
+ "fetchedAt": "2026-10-25T15:07:04.116Z",
  "data": {
   "players": [
    {
@@ -808,7 +808,7 @@
     "name": "Lamar Jackson",
     "pos": "QB",
     "team": "BAL",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 8
    },
    {
@@ -888,7 +888,7 @@
     "name": "Christian Kirk",
     "pos": "WR",
     "team": "SF",
-    "injuryStatus": "IR",
+    "injuryStatus": null,
     "yearsExp": 8
    },
    {
@@ -976,7 +976,7 @@
     "name": "Dallas Goedert",
     "pos": "TE",
     "team": "PHI",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 8
    },
    {
@@ -1776,7 +1776,7 @@
     "name": "Rico Dowdle",
     "pos": "RB",
     "team": "PIT",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 6
    },
    {
@@ -1928,7 +1928,7 @@
     "name": "DeVonta Smith",
     "pos": "WR",
     "team": "PHI",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 5
    },
    {
@@ -1984,7 +1984,7 @@
     "name": "Zach Wilson",
     "pos": "QB",
     "team": "NO",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 5
    },
    {
@@ -2776,7 +2776,7 @@
     "name": "Tyler Badie",
     "pos": "RB",
     "team": "DEN",
-    "injuryStatus": "Out",
+    "injuryStatus": "IR",
     "yearsExp": 4
    },
    {
@@ -2896,7 +2896,7 @@
     "name": "Jordan Mason",
     "pos": "RB",
     "team": "MIN",
-    "injuryStatus": "IR",
+    "injuryStatus": null,
     "yearsExp": 4
    },
    {
@@ -3032,7 +3032,7 @@
     "name": "KaVontae Turpin",
     "pos": "WR",
     "team": "DAL",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 4
    },
    {
@@ -3160,7 +3160,7 @@
     "name": "Dontayvion Wicks",
     "pos": "WR",
     "team": "PHI",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 3
    },
    {
@@ -3224,7 +3224,7 @@
     "name": "Tank Dell",
     "pos": "WR",
     "team": "HOU",
-    "injuryStatus": "IR",
+    "injuryStatus": null,
     "yearsExp": 3
    },
    {
@@ -4104,7 +4104,7 @@
     "name": "Theo Johnson",
     "pos": "TE",
     "team": "NYG",
-    "injuryStatus": "Doubtful",
+    "injuryStatus": "Out",
     "yearsExp": 2
    },
    {
@@ -4544,7 +4544,7 @@
     "name": "Treyton Welch",
     "pos": "TE",
     "team": "NO",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 2
    },
    {
@@ -4624,7 +4624,7 @@
     "name": "Brashard Smith",
     "pos": "RB",
     "team": "KC",
-    "injuryStatus": "Out",
+    "injuryStatus": "IR",
     "yearsExp": 1
    },
    {
@@ -4656,7 +4656,7 @@
     "name": "Dylan Sampson",
     "pos": "RB",
     "team": "CLE",
-    "injuryStatus": "IR",
+    "injuryStatus": null,
     "yearsExp": 1
    },
    {
@@ -4968,7 +4968,7 @@
     "name": "Will Howard",
     "pos": "QB",
     "team": "PIT",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 1
    },
    {
@@ -5816,7 +5816,7 @@
     "name": "CJ Donaldson",
     "pos": "RB",
     "team": "NO",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 0
    },
    {
@@ -5888,7 +5888,7 @@
     "name": "Drew Allar",
     "pos": "QB",
     "team": "PIT",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 0
    },
    {
@@ -6216,7 +6216,7 @@
     "name": "Jonah Coleman",
     "pos": "RB",
     "team": "DEN",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 0
    },
    {
@@ -6472,7 +6472,7 @@
     "name": "Eli Heidenreich",
     "pos": "RB",
     "team": "PIT",
-    "injuryStatus": null,
+    "injuryStatus": "Out",
     "yearsExp": 0
    },
    {
