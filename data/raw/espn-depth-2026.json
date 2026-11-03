@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "fetchedAt": "2026-11-02T20:55:30.241Z",
+ "fetchedAt": "2026-11-03T18:42:54.619Z",
  "data": {
   "players": [
    {
@@ -13,19 +13,19 @@
     "name": "Carson Beck",
     "team": "ARI",
     "pos": "QB",
-    "depth": 3
+    "depth": 2
    },
    {
     "name": "Kendrick Bourne",
     "team": "ARI",
     "pos": "WR",
-    "depth": 2
+    "depth": 5
    },
    {
     "name": "Jacoby Brissett",
     "team": "ARI",
     "pos": "QB",
-    "depth": 1
+    "depth": 3
    },
    {
     "name": "Jalen Brooks",
@@ -37,13 +37,13 @@
     "name": "Devin Duvernay",
     "team": "ARI",
     "pos": "WR",
-    "depth": 5
+    "depth": 4
    },
    {
     "name": "Simi Fehoko",
     "team": "ARI",
     "pos": "WR",
-    "depth": 4
+    "depth": 3
    },
    {
     "name": "Elijah Higgins",
@@ -79,7 +79,7 @@
     "name": "Gardner Minshew II",
     "team": "ARI",
     "pos": "QB",
-    "depth": 2
+    "depth": 1
    },
    {
     "name": "Teagan Quitoriano",
@@ -91,7 +91,7 @@
     "name": "Reggie Virgil",
     "team": "ARI",
     "pos": "WR",
-    "depth": 3
+    "depth": 2
    },
    {
     "name": "Michael Wilson",
@@ -102,8 +102,7 @@
    {
     "name": "Kenny Yeboah",
     "team": "ARI",
-    "pos": "TE",
-    "depth": 4
+    "pos": "TE"
    },
    {
     "name": "Chad Ryland",
@@ -143,8 +142,7 @@
    {
     "name": "Khalil Herbert",
     "team": "ATL",
-    "pos": "RB",
-    "depth": 3
+    "pos": "RB"
    },
    {
     "name": "Austin Hooper",
@@ -245,7 +243,7 @@
     "name": "Josh Cuevas",
     "team": "BAL",
     "pos": "TE",
-    "depth": 3
+    "depth": 2
    },
    {
     "name": "Joe Fagnano",
@@ -269,7 +267,7 @@
     "name": "Matt Hibner",
     "team": "BAL",
     "pos": "TE",
-    "depth": 2
+    "depth": 3
    },
    {
     "name": "Justice Hill",
@@ -287,7 +285,7 @@
     "name": "Lamar Jackson",
     "team": "BAL",
     "pos": "QB",
-    "depth": 3
+    "depth": 4
    },
    {
     "name": "Ja'Kobi Lane",
@@ -562,6 +560,12 @@
     "depth": 2
    },
    {
+    "name": "Stephen Carlson",
+    "team": "CHI",
+    "pos": "TE",
+    "depth": 3
+   },
+   {
     "name": "Kaden Davis",
     "team": "CHI",
     "pos": "WR"
@@ -786,8 +790,7 @@
    {
     "name": "Audric Estime",
     "team": "CLE",
-    "pos": "RB",
-    "depth": 4
+    "pos": "RB"
    },
    {
     "name": "Harold Fannin Jr.",
@@ -828,8 +831,7 @@
    {
     "name": "Carsen Ryan",
     "team": "CLE",
-    "pos": "TE",
-    "depth": 3
+    "pos": "TE"
    },
    {
     "name": "Dylan Sampson",
@@ -922,8 +924,7 @@
    {
     "name": "James Mitchell",
     "team": "DAL",
-    "pos": "TE",
-    "depth": 4
+    "pos": "TE"
    },
    {
     "name": "George Pickens",
@@ -1045,8 +1046,7 @@
    {
     "name": "Cody Schrader",
     "team": "DEN",
-    "pos": "RB",
-    "depth": 3
+    "pos": "RB"
    },
    {
     "name": "Jarrett Stidham",
@@ -1540,7 +1540,7 @@
     "name": "Josh Cameron",
     "team": "JAC",
     "pos": "WR",
-    "depth": 3
+    "depth": 4
    },
    {
     "name": "Quinn Ewers",
@@ -1599,7 +1599,7 @@
     "name": "Brian Thomas Jr.",
     "team": "JAC",
     "pos": "WR",
-    "depth": 4
+    "depth": 3
    },
    {
     "name": "Bhayshul Tuten",
@@ -2245,13 +2245,12 @@
     "name": "Demond Claiborne",
     "team": "MIN",
     "pos": "RB",
-    "depth": 4
+    "depth": 3
    },
    {
     "name": "DeeJay Dallas",
     "team": "MIN",
-    "pos": "RB",
-    "depth": 3
+    "pos": "RB"
    },
    {
     "name": "Tai Felton",
@@ -2397,8 +2396,7 @@
    {
     "name": "Ryan Miller",
     "team": "NE",
-    "pos": "WR",
-    "depth": 6
+    "pos": "WR"
    },
    {
     "name": "Behren Morton",
@@ -2782,7 +2780,7 @@
     "name": "Tank Bigsby",
     "team": "PHI",
     "pos": "RB",
-    "depth": 4
+    "depth": 3
    },
    {
     "name": "Jaydon Blue",
@@ -2846,8 +2844,7 @@
    {
     "name": "Elijah Mitchell",
     "team": "PHI",
-    "pos": "RB",
-    "depth": 3
+    "pos": "RB"
    },
    {
     "name": "Elijah Moore",
@@ -2859,7 +2856,7 @@
     "name": "Johnny Mundt",
     "team": "PHI",
     "pos": "TE",
-    "depth": 2
+    "depth": 3
    },
    {
     "name": "Cole Payton",
@@ -2871,7 +2868,7 @@
     "name": "Dameon Pierce",
     "team": "PHI",
     "pos": "RB",
-    "depth": 6
+    "depth": 5
    },
    {
     "name": "DeVonta Smith",
@@ -2883,7 +2880,7 @@
     "name": "Eli Stowers",
     "team": "PHI",
     "pos": "TE",
-    "depth": 3
+    "depth": 2
    },
    {
     "name": "Dontayvion Wicks",
@@ -2947,8 +2944,7 @@
    {
     "name": "Brandon Johnson",
     "team": "PIT",
-    "pos": "WR",
-    "depth": 8
+    "pos": "WR"
    },
    {
     "name": "DK Metcalf",
@@ -3159,7 +3155,7 @@
     "name": "Irv Charles",
     "team": "SEA",
     "pos": "WR",
-    "depth": 5
+    "depth": 7
    },
    {
     "name": "Sam Darnold",
@@ -3168,16 +3164,21 @@
     "depth": 1
    },
    {
+    "name": "Montorie Foster Jr.",
+    "team": "SEA",
+    "pos": "WR",
+    "depth": 6
+   },
+   {
     "name": "Robert Henry Jr.",
     "team": "SEA",
-    "pos": "RB",
-    "depth": 6
+    "pos": "RB"
    },
    {
     "name": "George Holani",
     "team": "SEA",
     "pos": "RB",
-    "depth": 4
+    "depth": 3
    },
    {
     "name": "Tory Horton",
@@ -3216,6 +3217,12 @@
     "depth": 3
    },
    {
+    "name": "Jadarian Price",
+    "team": "SEA",
+    "pos": "RB",
+    "depth": 2
+   },
+   {
     "name": "Brady Russell",
     "team": "SEA",
     "pos": "RB"
@@ -3242,7 +3249,7 @@
     "name": "Emanuel Wilson",
     "team": "SEA",
     "pos": "RB",
-    "depth": 2
+    "depth": 4
    },
    {
     "name": "Jason Myers",
@@ -3432,8 +3439,7 @@
    {
     "name": "Xavier Restrepo",
     "team": "TEN",
-    "pos": "WR",
-    "depth": 6
+    "pos": "WR"
    },
    {
     "name": "Calvin Ridley",
