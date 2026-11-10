@@ -1,32 +1,29 @@
 {
  "season": 2026,
- "builtAt": "2026-11-09T21:40:23.644Z",
- "fetchedAt": "2026-11-09T21:40:23.360Z",
+ "builtAt": "2026-11-10T18:57:10.679Z",
+ "fetchedAt": "2026-11-10T18:57:10.268Z",
  "teams": {
   "ARI": {
    "RB": [
     "Tyler Allgeier",
     "Bam Knight",
-    "Evan Hull",
-    "Jerome Ford"
+    "Evan Hull"
    ],
    "QB": [
     "Gardner Minshew II",
     "Carson Beck"
    ],
+   "WR": [
+    "Reggie Virgil",
+    "Simi Fehoko",
+    "Devin Duvernay",
+    "Harrison Wallace III",
+    "Jalen Brooks"
+   ],
    "TE": [
     "Trey McBride",
     "Elijah Higgins",
-    "Teagan Quitoriano",
-    "Shawn Bowman"
-   ],
-   "WR": [
-    "Michael Wilson",
-    "Reggie Virgil",
-    "Simi Fehoko",
-    "Harrison Wallace III",
-    "Jalen Brooks",
-    "Devin Duvernay"
+    "Teagan Quitoriano"
    ],
    "DST": [
     "Arizona Cardinals"
@@ -99,9 +96,9 @@
     "DJ Moore",
     "Khalil Shakir",
     "Keon Coleman",
-    "Joshua Palmer",
     "Greg Dortch",
-    "Skyler Bell"
+    "Skyler Bell",
+    "Trent Sherfield"
    ],
    "RB": [
     "James Cook III",
@@ -149,12 +146,6 @@
    ]
   },
   "CHI": {
-   "RB": [
-    "D'Andre Swift",
-    "Kyle Monangai",
-    "Roschon Johnson",
-    "Salvon Ahmed"
-   ],
    "QB": [
     "Caleb Williams",
     "Tyson Bagent",
@@ -171,6 +162,11 @@
     "Colston Loveland",
     "Sam Roush",
     "Stephen Carlson"
+   ],
+   "RB": [
+    "D'Andre Swift",
+    "Kyle Monangai",
+    "Roschon Johnson"
    ],
    "DST": [
     "Chicago Bears"
@@ -214,8 +210,7 @@
    ],
    "TE": [
     "Harold Fannin Jr.",
-    "Blake Whiteheart",
-    "Carsen Ryan"
+    "Blake Whiteheart"
    ],
    "QB": [
     "Deshaun Watson",
@@ -238,15 +233,13 @@
     "George Pickens",
     "Ryan Flournoy",
     "KaVontae Turpin",
-    "Jordan Hudson",
     "Jonathan Mingo",
     "Camden Brown"
    ],
    "TE": [
     "Jake Ferguson",
     "Brevyn Spann-Ford",
-    "Luke Schoonmaker",
-    "James Mitchell"
+    "Luke Schoonmaker"
    ],
    "RB": [
     "Javonte Williams",
@@ -269,8 +262,7 @@
    ],
    "RB": [
     "Jonah Coleman",
-    "J.K. Dobbins",
-    "Cody Schrader"
+    "J.K. Dobbins"
    ],
    "QB": [
     "Bo Nix",
@@ -308,21 +300,13 @@
    "RB": [
     "Jahmyr Gibbs",
     "Sione Vaki",
-    "Jacob Saylors",
-    "Jabari Small"
+    "Jacob Saylors"
    ],
    "DST": [
     "Detroit Lions"
    ]
   },
   "GB": {
-   "TE": [
-    "Tucker Kraft",
-    "Mark Redman",
-    "Josh Whyle",
-    "Jonnu Smith",
-    "Drake Dabney"
-   ],
    "WR": [
     "Christian Watson",
     "Matthew Golden",
@@ -336,6 +320,12 @@
     "MarShawn Lloyd",
     "Kaleb Johnson",
     "Pierre Strong Jr."
+   ],
+   "TE": [
+    "Tucker Kraft",
+    "Mark Redman",
+    "Josh Whyle",
+    "Jonnu Smith"
    ],
    "QB": [
     "Jordan Love",
@@ -383,7 +373,6 @@
    ],
    "WR": [
     "Josh Downs",
-    "Keenan Allen",
     "Laquon Treadwell",
     "Ashton Dulin",
     "Deion Burks",
@@ -550,8 +539,7 @@
    "RB": [
     "Ollie Gordon II",
     "Jaylen Wright",
-    "Kaytron Allen",
-    "Carlos Washington Jr."
+    "Kaytron Allen"
    ],
    "WR": [
     "Malik Washington",
@@ -580,14 +568,14 @@
     "Justin Jefferson",
     "Jordan Addison",
     "Jauan Jennings",
-    "Tai Felton",
     "Myles Price",
+    "Tai Felton",
     "Odell Beckham Jr."
    ],
    "TE": [
     "T.J. Hockenson",
-    "Gavin Bartholomew",
-    "Ben Yurosek"
+    "Ben Yurosek",
+    "Gavin Bartholomew"
    ],
    "QB": [
     "Kyler Murray",
@@ -595,9 +583,9 @@
     "Max Brosmer"
    ],
    "RB": [
+    "Jordan Mason",
     "Aaron Jones Sr.",
-    "DeeJay Dallas",
-    "Demond Claiborne"
+    "DeeJay Dallas"
    ],
    "DST": [
     "Minnesota Vikings"
@@ -635,8 +623,8 @@
    "WR": [
     "Chris Olave",
     "Devaughn Vele",
-    "Bryce Lance",
     "Jordyn Tyson",
+    "Bryce Lance",
     "Barion Brown"
    ],
    "TE": [
@@ -646,9 +634,8 @@
    ],
    "RB": [
     "Alvin Kamara",
-    "CJ Donaldson",
     "Audric Estime",
-    "Zamir White"
+    "CJ Donaldson"
    ],
    "QB": [
     "Tyler Shough",
@@ -664,7 +651,6 @@
     "Cam Skattebo",
     "Devin Singletary",
     "Greg Desrosiers Jr.",
-    "Phil Mafah",
     "Tyrone Tracy Jr."
    ],
    "TE": [
@@ -719,7 +705,6 @@
   "PHI": {
    "RB": [
     "Saquon Barkley",
-    "Elijah Mitchell",
     "Jaydon Blue",
     "Tank Bigsby"
    ],
@@ -781,12 +766,12 @@
    "WR": [
     "Mike Evans",
     "Deebo Samuel Sr.",
+    "Keenan Allen",
     "Demarcus Robinson",
+    "Jacob Cowing",
     "Jordan Watkins",
-    "KhaDarel Hodge",
-    "Brandin Cooks",
     "Brandon Aiyuk",
-    "Jacob Cowing"
+    "Brandin Cooks"
    ],
    "RB": [
     "Christian McCaffrey",
@@ -824,8 +809,7 @@
     "Rashid Shaheed",
     "Cooper Kupp",
     "Tory Horton",
-    "Irv Charles",
-    "Montorie Foster Jr."
+    "Irv Charles"
    ],
    "QB": [
     "Sam Darnold",
@@ -905,7 +889,6 @@
     "Treylon Burks",
     "Van Jefferson",
     "Luke McCaffrey",
-    "Jaden Bradley",
     "Jaylin Lane"
    ],
    "RB": [
